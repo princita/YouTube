@@ -45,20 +45,30 @@ TOOLS:
 Generative AI models
 
 1-Gan -->two models  competing --one making fake data --other try to spot it
+
 2-VAEs-->hidden representation of data to create new or similar data
+
 3-transfomer -->good at understanding the context like text ,audio ,images using attention
+
 4-diffusion --> high quality data by reversing and noicing process
+
 5-immage generation process -->using gans and diffusion models
 
 which tool ai uses along with power:
+
 1- neural network
+
 2-LLM
+
 3-GANs
+
 4-varitional auto encoder
+
 5- foundational models
 
+NOTION AI --->TURNING NOTES INTO Organize databases
 
-![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
+![image](https://github.com/user-attachments/assets/ea92ac89-03cf-4f1f-81f2-65a04a461208)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
