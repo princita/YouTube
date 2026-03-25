@@ -38,6 +38,25 @@ TOOLS:
 ![image](https://github.com/user-attachments/assets/4cc1e86c-fa96-4498-bf78-305d28798f8b)
 ![image](https://github.com/user-attachments/assets/888ef54d-9591-4c6b-91bb-32d0470abae9)
 ![image](https://github.com/user-attachments/assets/68f5bc71-3f11-41aa-a304-d5d1a00ca903)
+![image](https://github.com/user-attachments/assets/d8967669-9ef8-4363-b12a-32faa37fc6c4)
+![image](https://github.com/user-attachments/assets/e6db93c7-a1a1-43c0-a761-27cf08fa1241)
+![image](https://github.com/user-attachments/assets/fb4cd4c2-ee78-4114-8675-54cbb0962e99)<br>
+
+Generative AI models
+
+1-Gan -->two models  competing --one making fake data --other try to spot it
+2-VAEs-->hidden representation of data to create new or similar data
+3-transfomer -->good at understanding the context like text ,audio ,images using attention
+4-diffusion --> high quality data by reversing and noicing process
+5-immage generation process -->using gans and diffusion models
+
+which tool ai uses along with power:
+1- neural network
+2-LLM
+3-GANs
+4-varitional auto encoder
+5- foundational models
+
 
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
