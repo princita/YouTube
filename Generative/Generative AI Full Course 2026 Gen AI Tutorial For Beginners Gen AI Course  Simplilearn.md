@@ -16,19 +16,29 @@
 ![image](https://github.com/user-attachments/assets/c9dd6957-8408-4d6a-9a71-9eb125ff9134)
 ![image](https://github.com/user-attachments/assets/93f8f033-54f8-47f0-8721-9e0896c11cba)
 
-![image](https://github.com/user-attachments/assets/5f452921-108a-4bb7-a930-237545af9cad)
+![image](https://github.com/user-attachments/assets/5f452921-108a-4bb7-a930-237545af9cad)<br>
 1-GANS
+
 2-DIFFUSION MODEL 
+
 3-AUTO ENCODER 
+
 TOOLS:
+
 1-MID Journey
+
 2-dalle
 
 ![image](https://github.com/user-attachments/assets/8af81c63-7b87-40fb-be42-8e0ce64eec61)
 ![image](https://github.com/user-attachments/assets/5ef7c1b0-049f-4fc2-840c-8a5ed3a31291)
 ![image](https://github.com/user-attachments/assets/9b699816-ec7c-4408-ae3f-7aa8191f91ad)
+![image](https://github.com/user-attachments/assets/00e4f7e1-3063-472c-8c7d-f30b9091807f)
+![image](https://github.com/user-attachments/assets/3284eee3-8bd7-4093-97ff-4020208dc2a2)
+![image](https://github.com/user-attachments/assets/cd1a3cf4-0131-4ad3-a56d-2f84e5b5b77d)
+![image](https://github.com/user-attachments/assets/4cc1e86c-fa96-4498-bf78-305d28798f8b)
+![image](https://github.com/user-attachments/assets/888ef54d-9591-4c6b-91bb-32d0470abae9)
+![image](https://github.com/user-attachments/assets/68f5bc71-3f11-41aa-a304-d5d1a00ca903)
 
-![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
