@@ -69,7 +69,20 @@ which tool ai uses along with power:
 NOTION AI --->TURNING NOTES INTO Organize databases
 
 ![image](https://github.com/user-attachments/assets/ea92ac89-03cf-4f1f-81f2-65a04a461208)
-![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
+![image](https://github.com/user-attachments/assets/112c2c59-59b9-4a80-a5cd-245f466616a1)
+</br>
+LangChain:
+
+1-Chain:sequence of steps .for example take input from user.reformat it.send it to another user.return final answer.chain make your code 
+easer to debug.easer to debug .easer to extend.
+
+2-tools: allow the LMMS to interact with out side word.for example search  engins,calculator,databases ,apis...without tool our model
+can only talk.with tools it can act.
+
+3-agents:what action to take .which tool to use .decide next step.
+
+state and mmemory managment 
+
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
 ![image](https://github.com/princit/Youtube_Cources/assets/29123911/52b2d81b-9a89-4643-b628-61e628cbb1e1)
