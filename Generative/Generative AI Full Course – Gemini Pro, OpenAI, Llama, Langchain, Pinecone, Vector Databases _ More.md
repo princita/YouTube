@@ -46,16 +46,16 @@ Generative Language model         ------------text  to image
 ------------------------------------------------------------------------------------------------------------------------------------------just like git hub --->we have docker hub -->we have hugging hub
 agi --> artifical gereral intelligence
 input output propts---> in firm of  token 
+embeding -->numeric representation of text
 ![image](https://github.com/user-attachments/assets/3e9dd717-7596-42ec-ac15-536b6f6b5033)
 ![image](https://github.com/user-attachments/assets/12afdd4d-4e71-4965-878d-1fad92398320)
 ![image](https://github.com/user-attachments/assets/e5595cd5-c93e-48bb-8449-4da890f2bad5)
 ![image](https://github.com/user-attachments/assets/c9479b0e-92bd-47de-99bf-aacfa96fc2fe)
+![image](https://github.com/user-attachments/assets/8d1ccd16-502d-4063-9c36-5e7515be3389)
+![image](https://github.com/user-attachments/assets/4c5df7a3-c0a2-43e0-997d-3438becad8af)
+![image](https://github.com/user-attachments/assets/21941466-20ba-4b03-85df-1efce7a4191c)
+![image](https://github.com/user-attachments/assets/39b2369f-8116-4028-9515-51979eb40f42)
 ![image]()
 ![image]()
 ![image]()
 ![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-
