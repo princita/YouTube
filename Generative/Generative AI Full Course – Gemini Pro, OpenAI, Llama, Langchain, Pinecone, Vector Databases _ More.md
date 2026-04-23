@@ -44,6 +44,13 @@ Generative Language model         ------------text  to image
 ![image](https://github.com/user-attachments/assets/72e73543-3e62-4ed5-a145-52c839a8c9bd)
 
 ------------------------------------------------------------------------------------------------------------------------------------------just like git hub --->we have docker hub -->we have hugging hub
+agi --> artifical gereral intelligence
+![image](https://github.com/user-attachments/assets/3e9dd717-7596-42ec-ac15-536b6f6b5033)
+![image](https://github.com/user-attachments/assets/12afdd4d-4e71-4965-878d-1fad92398320)
+![image](https://github.com/user-attachments/assets/e5595cd5-c93e-48bb-8449-4da890f2bad5)
+![image](https://github.com/user-attachments/assets/c9479b0e-92bd-47de-99bf-aacfa96fc2fe)
+![image]()
+![image]()
 ![image]()
 ![image]()
 ![image]()
