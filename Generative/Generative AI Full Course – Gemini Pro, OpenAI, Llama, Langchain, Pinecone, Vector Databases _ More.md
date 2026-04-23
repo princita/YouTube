@@ -42,6 +42,9 @@ Generative Language model         ------------text  to image
 ![image](https://github.com/user-attachments/assets/18f71bab-b4ae-41c5-8e5d-a4f9998fb10b)
 ![image](https://github.com/user-attachments/assets/e35768a5-425b-4690-a9b2-6508e7e08bf4)
 ![image](https://github.com/user-attachments/assets/72e73543-3e62-4ed5-a145-52c839a8c9bd)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image]()
 ![image]()
 ![image]()
