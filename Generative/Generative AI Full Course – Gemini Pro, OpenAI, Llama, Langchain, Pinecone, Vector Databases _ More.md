@@ -45,6 +45,7 @@ Generative Language model         ------------text  to image
 
 ------------------------------------------------------------------------------------------------------------------------------------------just like git hub --->we have docker hub -->we have hugging hub
 agi --> artifical gereral intelligence
+input output propts---> in firm of  token 
 ![image](https://github.com/user-attachments/assets/3e9dd717-7596-42ec-ac15-536b6f6b5033)
 ![image](https://github.com/user-attachments/assets/12afdd4d-4e71-4965-878d-1fad92398320)
 ![image](https://github.com/user-attachments/assets/e5595cd5-c93e-48bb-8449-4da890f2bad5)
