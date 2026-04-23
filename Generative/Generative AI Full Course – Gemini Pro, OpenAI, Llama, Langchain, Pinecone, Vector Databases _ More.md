@@ -1,6 +1,4 @@
 
-
-
 ![image](https://github.com/user-attachments/assets/f8cdb44e-5eae-4782-8bd2-59f4207400a1)
 ![image](https://github.com/user-attachments/assets/bdecca44-806f-4470-ac19-b215a7cd7ad9)
 ![image](https://github.com/user-attachments/assets/07e642f3-9056-4975-b8e2-007c3a20c47d
@@ -24,7 +22,12 @@ Generative Language model         ------------text  to image
 ![image](https://github.com/user-attachments/assets/78ec0760-5fa4-410c-b04a-3a5e9747ba6f)
 ![image](https://github.com/user-attachments/assets/e032645e-1ee9-4c4a-a410-d8f8c21d98ef)
 ![image](https://github.com/user-attachments/assets/ba2f252a-e98b-4f0d-a631-c3a557f05b34)
-
+![image](https://github.com/user-attachments/assets/75c1159c-0019-4ad8-af35-ca6b4c5e4476)
+![image](https://github.com/user-attachments/assets/cb306425-afbb-4e83-8c6b-edbad8309a55)
+![image](https://github.com/user-attachments/assets/da18a21c-c58c-427a-a5ee-9ee29653a3a1)
+![image](https://github.com/user-attachments/assets/00dc92f2-fa8d-4a5f-9992-30c4296f8c1f)
+![image]()
+![image]()
 ![image]()
 ![image]()
 ![image]()
