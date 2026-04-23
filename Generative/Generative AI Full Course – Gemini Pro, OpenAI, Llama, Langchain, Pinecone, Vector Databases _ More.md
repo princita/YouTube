@@ -43,10 +43,11 @@ Generative Language model         ------------text  to image
 ![image](https://github.com/user-attachments/assets/e35768a5-425b-4690-a9b2-6508e7e08bf4)
 ![image](https://github.com/user-attachments/assets/72e73543-3e62-4ed5-a145-52c839a8c9bd)
 
-------------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------------just like git hub --->we have docker hub -->we have hugging hub
 ![image]()
 ![image]()
 ![image]()
-
+![image]()
+![image]()
+![image]()
 
