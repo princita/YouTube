@@ -55,7 +55,7 @@ embeding -->numeric representation of text
 ![image](https://github.com/user-attachments/assets/4c5df7a3-c0a2-43e0-997d-3438becad8af)
 ![image](https://github.com/user-attachments/assets/21941466-20ba-4b03-85df-1efce7a4191c)
 ![image](https://github.com/user-attachments/assets/39b2369f-8116-4028-9515-51979eb40f42)
-![image]()
+![image](https://github.com/user-attachments/assets/aaabfcce-256d-479d-ad77-1090d5402010)
 ![image]()
 ![image]()
 ![image]()
