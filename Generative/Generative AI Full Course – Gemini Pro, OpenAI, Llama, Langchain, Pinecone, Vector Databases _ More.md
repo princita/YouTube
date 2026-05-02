@@ -66,14 +66,24 @@ embeding -->numeric representation of text
 ![image](https://github.com/user-attachments/assets/8929cae8-c765-46c4-9783-912a26a99a9b)
 ![image](https://github.com/user-attachments/assets/50a85d8b-05f9-4528-8931-4b9a5a094ec5)
 ![image](https://github.com/user-attachments/assets/3e4c677e-5bdb-48bd-be44-da66898f77d4)
+
+zero short prompt
+
 ![image](https://github.com/user-attachments/assets/af820a90-3259-4132-8c59-3c8322bf8f7c)
 ![image](https://github.com/user-attachments/assets/41f111e1-d3e7-4f6c-9553-b194ba599e4c)
+![image](https://github.com/user-attachments/assets/bf6a4a8c-fe74-4065-ad6e-d52a42697b63)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 zero short prompt few short prompt
+
+prompt is sentence and tokens  is a words
+
 ![image](https://github.com/user-attachments/assets/dc8b9b86-401d-4764-911c-49f3c164183a)
 ![image](https://github.com/user-attachments/assets/da071f84-776a-4de3-bb1a-dda91f6af86a)
 ![image](https://github.com/user-attachments/assets/4c365b90-cd25-4c4f-91aa-c366606908fe)
+
+few short prompt
+
 ![image](https://github.com/user-attachments/assets/9dd55ca3-6682-485d-a532-aabeab030141)
 ![image](https://github.com/user-attachments/assets/05a83a40-e3ad-4af0-802c-3058a36c7158)
 ![image](https://github.com/user-attachments/assets/651e0ba5-e67f-4e3f-83bb-fcf3be0ab2d6)
@@ -84,16 +94,21 @@ zero short prompt few short prompt
 ![image](https://github.com/user-attachments/assets/ab32e8df-0912-49db-8ef5-e4671929eed2)
 ![image](https://github.com/user-attachments/assets/1dc470ef-d56b-409b-a44d-29f80fff5be8)
 ![image](https://github.com/user-attachments/assets/c24bf388-c799-48be-a281-52dd9027d0a2)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/a100fd3d-ee81-4b53-bfac-cd55acd98877)
+![image](https://github.com/user-attachments/assets/45da8165-974d-4eb7-971d-a9107802d634)
+![image](https://github.com/user-attachments/assets/6b92d13e-0b0b-409e-aae5-1761e61f2217)
+![image](https://github.com/user-attachments/assets/c895b2da-9bfc-4cf8-ba69-a0be981ef3bc)
+![image](https://github.com/user-attachments/assets/aa127828-ad72-4d59-859b-31668e23978f)
+![image](https://github.com/user-attachments/assets/c22c8a39-e2b1-40a4-8b5f-47e642f02c9d)
+![image](https://github.com/user-attachments/assets/718f5b44-b08f-44c9-8a61-3f3b5beb105c)
+![image](https://github.com/user-attachments/assets/70c10cd3-e7f1-44f8-8fdd-979537bf1a1b)
+![image](https://github.com/user-attachments/assets/2efecb65-f118-4055-852f-cd0577b70807)
+![image](https://github.com/user-attachments/assets/faaeffda-ffc6-4d9f-a0da-2affa6519e7f)
+![image](https://github.com/user-attachments/assets/399c931f-dbb6-450f-b62f-64cc16675bf0)
+![image](https://github.com/user-attachments/assets/161eb378-952c-4cbf-925e-d22519255617)
+![image](https://github.com/user-attachments/assets/b9f77b67-7765-4898-957d-88509793d9a8)
+![image](https://github.com/user-attachments/assets/892ecf8c-58ac-4cbe-914a-b3ad385c1551)
+![image](https://github.com/user-attachments/assets/78ebd64b-2376-4dc5-840d-79115921b97e)
+[image](https://github.com/user-attachments/assets/e1f236e8-d386-4513-9f02-4fd04d5781d6)
 
 
