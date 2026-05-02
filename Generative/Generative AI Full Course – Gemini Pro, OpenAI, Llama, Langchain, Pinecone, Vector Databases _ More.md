@@ -59,9 +59,14 @@ embeding -->numeric representation of text
 ![image](https://github.com/user-attachments/assets/b375629a-4679-4ea0-9d60-7a9fe2df44b0)
 ![image](https://github.com/user-attachments/assets/38b46169-5224-4a3d-9b83-1aee66a2af38)
 ![image](https://github.com/user-attachments/assets/91e93fc6-793a-4634-aa93-82b6bdf22394)
+![image](https://github.com/user-attachments/assets/f78d3f7d-f541-4f43-9ec9-126a1114b91d)
+![image](https://github.com/user-attachments/assets/d478db5f-8923-4846-ba4f-98de7cea712f)
+![image](https://github.com/user-attachments/assets/cc0069df-7810-44c1-8833-43667d0fca82)
+![image](https://github.com/user-attachments/assets/bc9c6ee8-46df-4c77-9b60-c15f98f0abfa)
 ![image](https://github.com/user-attachments/assets/8929cae8-c765-46c4-9783-912a26a99a9b)
 ![image](https://github.com/user-attachments/assets/50a85d8b-05f9-4528-8931-4b9a5a094ec5)
 ![image](https://github.com/user-attachments/assets/3e4c677e-5bdb-48bd-be44-da66898f77d4)
+![image](https://github.com/user-attachments/assets/af820a90-3259-4132-8c59-3c8322bf8f7c)
 ![image](https://github.com/user-attachments/assets/41f111e1-d3e7-4f6c-9553-b194ba599e4c)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
