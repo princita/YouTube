@@ -131,5 +131,36 @@ Langchain ---
 5-Memory
 6 Documant Loader
 
-Hugging Face
+Hugging Face--
+1-How to generate the hugging face api key
+2-How to generate the hugging face api token
+3-utlize any sort of model over huging face hub
+
+Why not using Openai why langchain
+Limitation of open ai api?
+1- open api model is not free
+2-if we have the single solution for all the llm --lang chain provide this
+3-Langchain is not limited to open ai
+4- Have the limited knowledege in open ai not current knowledge
+
+LANG CHAIN :- 
+1-Can acces the different LLM models by  using different LMM API
+2-can access the private data source 
+3-can access the third party api.
+
+
+![image](https://github.com/user-attachments/assets/a5000624-e09f-4dad-8a3d-7c0867a81482)
+![image](https://github.com/user-attachments/assets/0ed15a45-0e2f-4ce8-ae02-5b44db044b9a)
+![image](https://github.com/user-attachments/assets/6fa7d52d-2b0e-4d05-8dca-f1d7e0b10dcf)
+![image](https://github.com/user-attachments/assets/6514783b-24b5-4eba-aa53-6973303ad462)
+![image](https://github.com/user-attachments/assets/743cb854-3519-41f8-aba6-e139767ea97b)
+![image](https://github.com/user-attachments/assets/228bc5dd-c3c2-48c5-8ff0-112a93ef3f19)
+![image](https://github.com/user-attachments/assets/ad416542-5560-4127-acf3-ce2d45bf068b)
+![image](
+![image](
+![image](
+![image](
+
+
+
 
