@@ -112,6 +112,8 @@ few short prompt
 [image](https://github.com/user-attachments/assets/e1f236e8-d386-4513-9f02-4fd04d5781d6)
 [image](https://github.com/user-attachments/assets/3503cd7a-1263-436b-8e27-559611c576d2)
 
+Langchain is rapper on top of OpenAI...we have many other uses of Langchain other then this .
+
 
 
 
