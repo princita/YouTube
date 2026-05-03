@@ -109,12 +109,27 @@ few short prompt
 ![image](https://github.com/user-attachments/assets/b9f77b67-7765-4898-957d-88509793d9a8)
 ![image](https://github.com/user-attachments/assets/892ecf8c-58ac-4cbe-914a-b3ad385c1551)
 ![image](https://github.com/user-attachments/assets/78ebd64b-2376-4dc5-840d-79115921b97e)
-[image](https://github.com/user-attachments/assets/e1f236e8-d386-4513-9f02-4fd04d5781d6)
-[image](https://github.com/user-attachments/assets/3503cd7a-1263-436b-8e27-559611c576d2)
+![image](https://github.com/user-attachments/assets/e1f236e8-d386-4513-9f02-4fd04d5781d6)
+!image](https://github.com/user-attachments/assets/3503cd7a-1263-436b-8e27-559611c576d2)
 
 Langchain is rapper on top of OpenAI...we have many other uses of Langchain other then this .
+we can use Langchain for any open source model.
 
+![image](https://github.com/user-attachments/assets/6983d15a-a0bf-4987-83f0-a6bac2ed3fe8)
+![image](https://github.com/user-attachments/assets/230182de-02d9-445b-9dc5-8d0f36fd4f5b)
+![image](https://github.com/user-attachments/assets/549dd04a-67aa-40c9-b450-e197cc19480a)
+![image](https://github.com/user-attachments/assets/08302407-3373-485f-b12d-109e7767c136)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
+Langchain --- 
 
+1-How to use openai via Langchain
+2-prompt templating 
+3-chains
+4- agnet --->Serp api --> Google search  api
+5-Memory
+6 Documant Loader
+
+Hugging Face
 
