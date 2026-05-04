@@ -156,11 +156,17 @@ LANG CHAIN :-
 ![image](https://github.com/user-attachments/assets/743cb854-3519-41f8-aba6-e139767ea97b)
 ![image](https://github.com/user-attachments/assets/228bc5dd-c3c2-48c5-8ff0-112a93ef3f19)
 ![image](https://github.com/user-attachments/assets/ad416542-5560-4127-acf3-ce2d45bf068b)
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/b1abcd4b-78fa-46a3-beee-e02c5567a50e)
+![image](https://github.com/user-attachments/assets/56a15f0a-241e-40c7-b724-d55ca1855d7d)
+![image](https://github.com/user-attachments/assets/17e8cc46-8748-422e-8689-282fcdfa309b)
 
+https://serpapi.com/ 
+serpapi-->get  the real time google search result, any search engin 
+
+![image](
+![image](
+![image](
+![image](
 
 
 
