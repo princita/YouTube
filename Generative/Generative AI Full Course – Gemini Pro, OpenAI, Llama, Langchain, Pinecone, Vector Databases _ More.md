@@ -163,10 +163,21 @@ LANG CHAIN :-
 https://serpapi.com/ 
 serpapi-->get  the real time google search result, any search engin 
 
+![image](https://github.com/user-attachments/assets/bd480d76-7538-47e5-bf59-d675121616d5)
+![image](https://github.com/user-attachments/assets/53906f2b-e0a5-49b2-b506-eaa01af29fb4)
+![image](https://github.com/user-attachments/assets/55110d6f-8d8d-49ca-8b9e-4f0a90be83ec)
+![image](https://github.com/user-attachments/assets/7f3d4970-9c22-4637-bd6c-dc4c86afa8f4)
+![image](https://github.com/user-attachments/assets/3af4dacb-91f6-4c48-8c3f-0de87cd1d463)
+![image](https://github.com/user-attachments/assets/5e7f19ba-efda-412b-8264-e638a6cd1fc6)
+![image](https://github.com/user-attachments/assets/787ee816-112c-494c-9432-3fb836e095d5)
+![image](https://github.com/user-attachments/assets/c50a1354-2bf4-4ec9-a1e7-c4bdc69a134f)
+![image](https://github.com/user-attachments/assets/6e730a5a-7291-4db3-a498-c3b2110414a7)
+![image](https://github.com/user-attachments/assets/7c42913e-96bc-4480-90f6-330aec0aa4b4)
+![image](https://github.com/user-attachments/assets/92c13aab-2d21-4a23-a037-a9b7588274c0)
 ![image](
 ![image](
 ![image](
-![image](
+
 
 
 
