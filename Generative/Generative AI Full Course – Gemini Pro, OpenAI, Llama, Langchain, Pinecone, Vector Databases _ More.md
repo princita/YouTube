@@ -135,6 +135,7 @@ Hugging Face--
 1-How to generate the hugging face api key
 2-How to generate the hugging face api token
 3-utlize any sort of model over huging face hub
+4-Hugging face api ==> local LLM
 
 Why not using Openai why langchain
 Limitation of open ai api?
@@ -175,8 +176,36 @@ serpapi-->get  the real time google search result, any search engin
 ![image](https://github.com/user-attachments/assets/7c42913e-96bc-4480-90f6-330aec0aa4b4)
 ![image](https://github.com/user-attachments/assets/92c13aab-2d21-4a23-a037-a9b7588274c0)
 ![image](https://github.com/user-attachments/assets/914808a5-bcd2-4ef0-89c7-c10efab4c6da)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Memory 
+
+![image](https://github.com/user-attachments/assets/d3ab4e95-28a0-42b7-a060-66c6fa8e3381)
+![image](https://github.com/user-attachments/assets/56692528-e581-4c53-a4e3-e482915c6bae)
+![image](https://github.com/user-attachments/assets/6c48b65b-5d58-4632-8159-299f5104a19a)
+![image](https://github.com/user-attachments/assets/ff4b17ba-c985-43e5-a1d4-1226084498a0)
+![image](https://github.com/user-attachments/assets/d2c8a49b-08ce-4b67-acd5-fbc4f244773b)
+![image](https://github.com/user-attachments/assets/3ee13701-fda8-4891-8593-b610ea93878c)
+![image](https://github.com/user-attachments/assets/d1b30905-6a0f-4a95-9e89-60f9032eefa3)
+![image](https://github.com/user-attachments/assets/be9fe4f6-3703-4e2b-9324-d9d9d11441f5)
+
+HUgging face with langchain
+
+![image](https://github.com/user-attachments/assets/38a7a213-12e1-4de0-8cd3-98224a217d69)
+![image](https://github.com/user-attachments/assets/dc06d1da-e1e3-48a5-985e-d58f96466841)
+![image](https://github.com/user-attachments/assets/e46e5422-d8a8-4054-a033-63eee9b5ed1b)
+![image](https://github.com/user-attachments/assets/53d9230e-ee26-4114-a683-1a8cb7f8719f)
 ![image](
 ![image](
+![image](
+![image](
+![image](
+![image](
+
+
+
+
+
 
 
 
