@@ -195,6 +195,9 @@ HUgging face with langchain
 ![image](https://github.com/user-attachments/assets/dc06d1da-e1e3-48a5-985e-d58f96466841)
 ![image](https://github.com/user-attachments/assets/e46e5422-d8a8-4054-a033-63eee9b5ed1b)
 ![image](https://github.com/user-attachments/assets/53d9230e-ee26-4114-a683-1a8cb7f8719f)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](
 ![image](
 ![image](
