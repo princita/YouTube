@@ -1,7 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/f8cdb44e-5eae-4782-8bd2-59f4207400a1)
 ![image](https://github.com/user-attachments/assets/bdecca44-806f-4470-ac19-b215a7cd7ad9)
-![image](https://github.com/user-attachments/assets/07e642f3-9056-4975-b8e2-007c3a20c47d
+![image](https://github.com/user-attachments/assets/07e642f3-9056-4975-b8e2-007c3a20c47d)
 
 convolution --feature extraction after that we do pooling after that we flaten the  layer
 after that we we apply fully connected layer [that is ANN]
