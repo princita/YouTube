@@ -202,13 +202,56 @@ HUgging face with langchain
 3-Modular 
 4-web app streamlit
 5-Deployement 
+1- vector data bases
 
 ![image](https://github.com/user-attachments/assets/247d5891-5e47-4b33-bb73-ed137be22750)
+![image](https://github.com/user-attachments/assets/68dca2fe-dd3f-47b0-8e9d-a54fa4e79778)
+![image](https://github.com/user-attachments/assets/24eb15db-c57b-4db7-805d-b9fa8a7bf8e1)
+![image](https://github.com/user-attachments/assets/7d4e48ec-0038-41e1-9241-2ea4a4d45c33)
+![image](https://github.com/user-attachments/assets/e7d45ecb-94e3-4d4f-91c1-dad0649721fe)
+![image](https://github.com/user-attachments/assets/6b816f90-a381-4653-9082-508b0284fb5c)
+![image](https://github.com/user-attachments/assets/9084adc2-65e0-4ddc-9041-4f71cfb2ccf9)
+![image](https://github.com/user-attachments/assets/acd9bcf9-ad2f-4a58-894e-f0e779330756)
+![image](https://github.com/user-attachments/assets/4a1e95f5-baaa-44c3-b47c-355f17f1eb3c)
+![image](https://github.com/user-attachments/assets/1ff62dd0-37b1-4a23-bd55-bb9a676d7748)
+![image](https://github.com/user-attachments/assets/ea5fe8ef-9698-4ee7-be1c-a70bdef51680)
+![image](https://github.com/user-attachments/assets/6016e390-3128-413e-b962-8610c81d1b61)
+![image](https://github.com/user-attachments/assets/6f182f43-b3fe-4afa-a73b-0f19cd0348a2)
+![image](https://github.com/user-attachments/assets/4edddb2a-f24b-4dd0-b668-780be384beb6)
+![image](https://github.com/user-attachments/assets/f9bc21c8-9059-4996-83d1-e4741264df02)
+![image](https://github.com/user-attachments/assets/111c2eae-e95f-4f61-9085-8bde7c21680f)
+![image](https://github.com/user-attachments/assets/e99ca28f-9154-4628-88ff-81e8c06eca61)
+![image](https://github.com/user-attachments/assets/4ab3e548-f95b-4f71-a25a-72697f1603dd)
+![image](https://github.com/user-attachments/assets/dfb555c7-c20a-4133-b806-0a3d018e7e70)
+![image](https://github.com/user-attachments/assets/37af5321-7a05-4e88-baf2-43faceccffd9)
+![image](https://github.com/user-attachments/assets/cd2929ce-4f0d-4e65-9519-d56aa0b9abd6)
+![image](https://github.com/user-attachments/assets/874adc53-0e43-4dd1-971e-02cee0f7d051)
+![image](https://github.com/user-attachments/assets/1c2e02bd-645e-4f84-bd92-0d58151c8205)
+![image](https://github.com/user-attachments/assets/3e4e9a83-8042-4256-8232-b4da3e9665bc)
+![image](https://github.com/user-attachments/assets/0fe69bca-45fa-48ff-9a0b-8bd7617b8e30)
+![image](https://github.com/user-attachments/assets/34f402da-a8c3-4c1e-9166-bee698daf167)
+![image](https://github.com/user-attachments/assets/2320cd6a-a03c-47df-8bbd-b8b7df941831)
+![image](https://github.com/user-attachments/assets/bd0eaf37-7f85-4605-a8f9-6885ab459f13)
+![image](https://github.com/user-attachments/assets/da0cdaf7-5486-4301-a7b5-19b66939bd3f)
+![image](https://github.com/user-attachments/assets/ddb63c59-0d56-419c-8fad-b41f0349ad5e)
+![image](https://github.com/user-attachments/assets/6c54152d-a887-47fc-9ab7-25381b131f75)
+![image](https://github.com/user-attachments/assets/84e965a1-430f-41be-b116-9c808a8c6abb)
+![image](https://github.com/user-attachments/assets/a24c3449-54e6-4e76-9310-2eb920737c2b)
+![image](https://github.com/user-attachments/assets/e614cfe4-4050-4ec4-91b2-09c759d10c7b)
+![image](https://github.com/user-attachments/assets/b553eeed-59e9-4af1-9aae-dc69e85aceba)
+![image](https://github.com/user-attachments/assets/23a69846-0e20-421e-be39-d35522143ff9)
+![image](https://github.com/user-attachments/assets/fce6d4fb-6072-49a6-a413-6c7a7ffc95d8)
 ![image](
 ![image](
-![image](
-![image](
-![image](
+
+
+
+
+
+
+
+
+
 
 
 
