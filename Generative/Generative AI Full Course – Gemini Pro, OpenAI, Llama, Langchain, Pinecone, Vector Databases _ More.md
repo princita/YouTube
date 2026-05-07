@@ -197,8 +197,13 @@ HUgging face with langchain
 ![image](https://github.com/user-attachments/assets/53d9230e-ee26-4114-a683-1a8cb7f8719f)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+1- set up development ennvironment 
+2-few experiments in jupyter notebook
+3-Modular 
+4-web app streamlit
+5-Deployement 
 
-![image](
+![image](https://github.com/user-attachments/assets/247d5891-5e47-4b33-bb73-ed137be22750)
 ![image](
 ![image](
 ![image](
