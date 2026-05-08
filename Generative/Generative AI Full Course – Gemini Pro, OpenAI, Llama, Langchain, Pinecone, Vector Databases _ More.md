@@ -263,16 +263,25 @@ HUgging face with langchain
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/aefccd18-5363-482a-93d0-4927adeba479)
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/008996fe-f320-4026-8aea-6080e319ed13)
+![image](https://github.com/user-attachments/assets/2116fc93-8c6f-4120-82e0-46f295b4e417)
+![image](https://github.com/user-attachments/assets/b8a517af-fdd6-444d-9bdd-201134dbd876)
+![image](https://github.com/user-attachments/assets/08b981db-8eb9-440c-9f43-0ac3d6262f4b)
+![image](https://github.com/user-attachments/assets/1f8c4fa3-b94c-479e-848b-cf5d424eaccb)
 
+We cant upload the .env file on git hub so 
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/140e0f9f-ac07-46f6-b7ff-a84e7539b617)
+![image](https://github.com/user-attachments/assets/8d59cd2b-035e-4421-b014-eae524f976c1)
+![image](https://github.com/user-attachments/assets/38f6ca7d-7172-4ea4-b01c-09a38fcc8931)
+![image](https://github.com/user-attachments/assets/15414f00-a1d2-414b-9601-1771509e5207)
+![image](https://github.com/user-attachments/assets/5203490a-a0bf-43aa-b111-2801102449e3)
+![image](https://github.com/user-attachments/assets/3e7cf396-ab35-4187-911b-dbd71fa08987)
+![image](https://github.com/user-attachments/assets/eaee88e4-ef80-4d66-8585-85cb903eb362)
+![image](https://github.com/user-attachments/assets/c3ec3386-39f6-4a9b-8099-6cd3cd4f7c81)
+![image](https://github.com/user-attachments/assets/a568813f-00e8-4b76-b887-00bbd0fdccda)
+![image](https://github.com/user-attachments/assets/32ff2768-6fe6-444a-9325-c2f62179fc09)
+![image](https://github.com/user-attachments/assets/03a83be1-6c69-44fa-89bd-30b6ddd5d405)
 
 
 
