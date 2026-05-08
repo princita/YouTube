@@ -244,9 +244,26 @@ HUgging face with langchain
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/03d548d4-69b1-4e29-a523-c1a35527fba3)
+![image](https://github.com/user-attachments/assets/e2dd7121-b0c3-4de7-8951-cd87f20f55f0)
+![image](https://github.com/user-attachments/assets/f11a1dd1-20c9-4b66-9de8-68de4f76f377)
+![image](https://github.com/user-attachments/assets/bed3079e-1cea-4577-ad57-4ee4fac17471)
+![image](https://github.com/user-attachments/assets/19446cd5-a0c0-41da-8400-43c2313e1d83)
+![image](https://github.com/user-attachments/assets/0bed0de2-a385-429b-a2db-d3097ae61f26)
+![image](https://github.com/user-attachments/assets/e5b2e8bf-4970-49b1-b200-e28efec59bdc)
+![image](https://github.com/user-attachments/assets/65f3ebb1-aab0-45fb-83bf-21d186d19b81)
+![image](https://github.com/user-attachments/assets/f91c519d-fb0a-4814-80ae-012dabd309f7)
+![image](https://github.com/user-attachments/assets/257a0726-405f-4efb-be41-b6a424d928d4)
+![image](https://github.com/user-attachments/assets/182a42da-ee7d-49e9-bdf0-868d0e496f02)
+![image](https://github.com/user-attachments/assets/3c2122a4-4c12-4887-9674-8becfbb801d1)
+![image](https://github.com/user-attachments/assets/bd6f2aaa-53a0-48ea-995e-effc85dc757a)
+![image](https://github.com/user-attachments/assets/66a8feb0-06c5-4a4b-8450-244432d217e0)
+![image](https://github.com/user-attachments/assets/371c7895-b1bf-4902-8432-4bf6dcd5a0c6)
+![image](
+![image](
+![image](
 
-![image](
-![image](
+
 
 
 
