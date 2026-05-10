@@ -452,6 +452,27 @@ google bart ---> google Palm 2 model behind it
 open source llmm github
 https://github.com/eugeneyan/open-llms
 
+![image](https://github.com/user-attachments/assets/5c399da3-1823-4c28-aa14-a8161275d537)
+![image](https://github.com/user-attachments/assets/f9408c1f-7dc7-407c-8053-6d0343607ab1)
+temperature -->risks 
+quatization mean --> u trian your neural network-->round the floating number to integer
+![image](https://github.com/user-attachments/assets/149fea19-3aa7-4a83-9eae-9f12df4286fe)
+![image](https://github.com/user-attachments/assets/0a8c98d5-5bf7-469a-bfca-60b489a97a4c)
+![image](https://github.com/user-attachments/assets/440911d4-dd7c-4c00-a74c-135d62af9e5a)
+![image](https://github.com/user-attachments/assets/0a92671c-a52c-4805-851a-e5da95ff05cf)
+![image](https://github.com/user-attachments/assets/99c9e189-2668-4374-921c-a31edb77483e)
+![image](https://github.com/user-attachments/assets/5c9ba405-54cc-4528-bf68-ced0d78abb9e)
+![image](https://github.com/user-attachments/assets/4ff1ed85-8b73-42d1-9ba9-805218fdb6c4)
+![image](https://github.com/user-attachments/assets/4efbfbc5-eb5e-44f1-a242-86ba436d055f)
+![image](https://github.com/user-attachments/assets/e05da080-8841-4a54-afe9-e523179a41fe)
+![image](https://github.com/user-attachments/assets/226ad69b-94d7-4526-a886-130fe6aa211b)
+![image](https://github.com/user-attachments/assets/adf3c78f-fb75-42b3-a894-d27b509b2964)
+![image](https://github.com/user-attachments/assets/7d7be3b3-5a3c-4a01-95ab-da534cb9fcf6)
+![image](https://github.com/user-attachments/assets/44a12a49-d98f-4e0d-b466-e14c3ba62885)
+![image](https://github.com/user-attachments/assets/27e19ece-2728-457f-b8e4-e7a78c42fd1e)
+![image](https://github.com/user-attachments/assets/0c609847-281a-42fe-a285-cc1a3050d2b4)
+![image](https://github.com/user-attachments/assets/a5a55873-645b-479f-a175-747e53b847fb)
+![image](https://github.com/user-attachments/assets/62b2d170-9643-459b-aa52-d5adf51df51f)
 ![image](
 ![image](
 
