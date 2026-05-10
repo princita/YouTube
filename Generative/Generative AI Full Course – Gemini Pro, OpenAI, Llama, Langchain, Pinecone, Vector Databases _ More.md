@@ -310,11 +310,21 @@ text --> generate vocabulary ---> create encoding
 
 Embeding ---> numberic representation of data
          ----> vector --represent [] --> Magnitude + direction
-         
-         
 
-![image](
-![image](
+Example : my name is waqar 
+
+He is data scientit
+
+he is working in Youtube
+
+Vocabulary = [my ,name is waqar  he data scientst  working in youtube]
+[1 0 0 0 0 0 0 0 0 0] [0 1 0  0 0 0 0 0 0 0 0 ]---
+   
+   my                            name         
+    
+
+![image](https://github.com/user-attachments/assets/ed1d7cf7-3f6a-4517-b64e-f9f3838b06ee)
+![image](https://github.com/user-attachments/assets/3e288717-89e3-4a62-bb04-db632d124863)
 ![image](
 ![image](
 ![image](
