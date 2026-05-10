@@ -440,15 +440,20 @@ all embedinng in chroma db in the binary from
 ![image](https://github.com/user-attachments/assets/c707d720-b7fc-46eb-aa71-25496baed15c)
 ![image](https://github.com/user-attachments/assets/ad93c0da-73a3-4128-a77f-84780e9ffb08)
 ![image](https://github.com/user-attachments/assets/e72c7625-6c24-47f4-b822-9dbbada538cc)
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/765a59d9-bf4d-4a3d-9b86-5b42a65f13e8)
+![image](https://github.com/user-attachments/assets/3f0acdb0-f7f3-4075-b1c9-80a4dff7e28a)
+![image](https://github.com/user-attachments/assets/8d8305da-e64a-443b-b277-7316f02151bb)
+![image](https://github.com/user-attachments/assets/4d5a9577-74ed-4f0f-bb04-8eec4e9da662)
 
+google bart ---> google Palm 2 model behind it 
+open source llmm github
+https://github.com/eugeneyan/open-llms
+
+![image](
+![image](
 
 
 
