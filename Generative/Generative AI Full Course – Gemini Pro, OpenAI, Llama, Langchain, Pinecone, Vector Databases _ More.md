@@ -423,13 +423,32 @@ generated embedding--->for data they have generated vocabulary -->for this  voca
 
 ---> they are passing each and every  thing to there models --> this may neural network--> that generate embeddding 
 
+![image](https://github.com/user-attachments/assets/97c41ac3-a268-48c4-a9ea-6de403b44c78)
+![image](https://github.com/user-attachments/assets/be036750-4d25-4089-92c3-9f1293f0686a)
+![image](https://github.com/user-attachments/assets/1f514abb-7b07-4c0b-b9d6-47ca63b440b7)
+chuck_overlap ---> some word pass from previous  chunck to next chunck
+
+![image](https://github.com/user-attachments/assets/543bc2b3-8cda-4ccd-80fd-508dba0a1062)
+![image](https://github.com/user-attachments/assets/a64c48fb-bb00-43f9-89d7-f43b4ff27902)
+all embedinng in chroma db in the binary from 
+![image](https://github.com/user-attachments/assets/16e52fc6-87e0-4236-93e6-e18c57642441)
+![image](https://github.com/user-attachments/assets/9af7fce5-6e26-464d-8a43-83a2bb752e3d)
+![image](https://github.com/user-attachments/assets/bd8ceb84-ae9d-4d71-8b25-7148fcbe0965)
+![image](https://github.com/user-attachments/assets/8a84792a-5329-42cb-b86c-ac5fec735ce9)
+![image](https://github.com/user-attachments/assets/8c0f732d-ec12-4bd1-a67d-f60d0f16ff42)
+![image](https://github.com/user-attachments/assets/27a76585-6be4-4761-84ff-b1ad383d0da0)
+![image](https://github.com/user-attachments/assets/c707d720-b7fc-46eb-aa71-25496baed15c)
+![image](https://github.com/user-attachments/assets/ad93c0da-73a3-4128-a77f-84780e9ffb08)
+![image](https://github.com/user-attachments/assets/e72c7625-6c24-47f4-b822-9dbbada538cc)
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
-![image](
+
+
+
 
 
 
