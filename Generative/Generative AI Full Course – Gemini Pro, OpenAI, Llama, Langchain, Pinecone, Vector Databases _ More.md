@@ -294,11 +294,17 @@ We cant upload the .env file on git hub so
 Encoding :
 
 1- without DL : 1.Document (BOW) 2.TF-IDF 3.N-gramm 4.One hot encoding 5.integer encoding [purpose : convert data to  number]
+
 disadvatnge =Sparce matrix,dont perserve context(meaning less)
+
 2- with DL : 1. word2vec  2.Fast text 3. elmo 4. Bert
+
 advantages = dense vector + context full
+
 3- Glove  --> matrix factorization
+
 text --> collection of sentences  -->phrases --> words token
+
 text --> generate vocabulary ---> create encoding 
 
 
