@@ -283,12 +283,36 @@ We cant upload the .env file on git hub so
 ![image](https://github.com/user-attachments/assets/32ff2768-6fe6-444a-9325-c2f62179fc09)
 ![image](https://github.com/user-attachments/assets/03a83be1-6c69-44fa-89bd-30b6ddd5d405)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/0f5e077f-1d1b-40a6-8fff-c4cfce8c874d)
+![image](https://github.com/user-attachments/assets/c23eb192-bd08-4b8f-bbe7-4f64d30722df)
+![image](https://github.com/user-attachments/assets/c6f221c8-5070-4b8e-ae36-647a42273ac8)
+![image](https://github.com/user-attachments/assets/bf3b2b01-e9d3-4edc-9091-42f7f66fcbe0)
+![image](https://github.com/user-attachments/assets/2ab0625e-b6a6-4f19-806b-718f05f5ad1d)
+
+Encoding :
+
+1- without DL : 1.Document (BOW) 2.TF-IDF 3.N-gramm 4.One hot encoding 5.integer encoding [purpose : convert data to  number]
+disadvatnge =Sparce matrix,dont perserve context(meaning less)
+2- with DL : 1. word2vec  2.Fast text 3. elmo 4. Bert
+advantages = dense vector + context full
+3- Glove  --> matrix factorization
+text --> collection of sentences  -->phrases --> words token
+text --> generate vocabulary ---> create encoding 
 
 
+Embeding ---> numberic representation of data
+         ----> vector --represent [] --> Magnitude + direction
+         
+         
 
-
-
-
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
