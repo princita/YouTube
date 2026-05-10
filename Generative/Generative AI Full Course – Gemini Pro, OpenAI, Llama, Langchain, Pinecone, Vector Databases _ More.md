@@ -417,6 +417,12 @@ pine cone --> clound based
 chroma db --> local db
 ![image](https://github.com/user-attachments/assets/85acc823-4cb6-46a9-a875-afa2a0fd2eea)
 ![image](https://github.com/user-attachments/assets/4cce1532-9700-40f5-b422-f869a24a8196)
+Word Embedding --> it a vector -->they  took the data ----they trained one model --> by using that model they have  
+
+generated embedding--->for data they have generated vocabulary -->for this  vocabbulary they have generated features 
+
+---> they are passing each and every  thing to there models --> this may neural network--> that generate embeddding 
+
 ![image](
 ![image](
 ![image](
