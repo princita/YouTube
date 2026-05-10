@@ -473,11 +473,31 @@ quatization mean --> u trian your neural network-->round the floating number to 
 ![image](https://github.com/user-attachments/assets/0c609847-281a-42fe-a285-cc1a3050d2b4)
 ![image](https://github.com/user-attachments/assets/a5a55873-645b-479f-a175-747e53b847fb)
 ![image](https://github.com/user-attachments/assets/62b2d170-9643-459b-aa52-d5adf51df51f)
+![image](https://github.com/user-attachments/assets/6343409f-e8d5-4370-906f-ed037d8e5472)
+![image](https://github.com/user-attachments/assets/3322d7e8-c9c2-4e74-8c62-5ed1b1e64cdf)
+![image](https://github.com/user-attachments/assets/403f17b3-978d-4b27-9ee2-08c7493a008a)
+![image](https://github.com/user-attachments/assets/aec3dd99-8c0a-46ed-bb7c-f368ffdf89a5)
+![image](https://github.com/user-attachments/assets/5f522027-fb27-4b7e-846f-67da096ccf02)
+![image](https://github.com/user-attachments/assets/aa59a56d-6ad8-40dd-af73-82ea3c865e96)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/1766d587-49b1-448f-815d-7c79e5fe5a2e)
+![image](https://github.com/user-attachments/assets/54842bd5-cfa4-4838-b993-f3f77cb59966)
+![image](https://github.com/user-attachments/assets/17d7e692-2f9e-4610-83c5-1faff26c0687)
+![image](https://github.com/user-attachments/assets/bd84ff95-538c-4d5d-a448-8fa173bd3be6)
+![image](https://github.com/user-attachments/assets/72f0c448-bd28-44ae-aa52-1db08863e591)
+vector db ---> we have 2 things -->1. my knowledge base---> 2.my sementic index 
+![image](https://github.com/user-attachments/assets/2b8b29b8-4ac4-4185-bd7f-c3abb76a4ff4)
+back end component  
+![image](https://github.com/user-attachments/assets/fe92c33f-5a66-460b-96d9-e5b29e46f2cf)
+![image](https://github.com/user-attachments/assets/9fd01d42-727c-41de-ab7f-1ca0b8daabb7)
+![image](https://github.com/user-attachments/assets/5ab526a0-66a3-4ddd-b2c3-803564ea0183)
 ![image](
 ![image](
-
-
-
+![image](
+![image](
+![image](
+![image](
 
 
 
