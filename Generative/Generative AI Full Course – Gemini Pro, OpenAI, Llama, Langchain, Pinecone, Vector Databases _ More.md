@@ -326,7 +326,7 @@ Vocabulary = [my ,name is waqar  he data scientst  working in youtube]
 ![image](https://github.com/user-attachments/assets/ed1d7cf7-3f6a-4517-b64e-f9f3838b06ee)
 ![image](https://github.com/user-attachments/assets/3e288717-89e3-4a62-bb04-db632d124863)
 
-  Emedding:
+  Emedding--> high dimension vector:
   
   1- vocabulary
 
@@ -357,12 +357,50 @@ embedding
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+Data base ---1 .sql 2. no sql 
+
+how vector data bas is differnet from sql and nosql
+
+dog image  --> save in mysql (bs4string, binary object  )
+           
+           --> define sechma  properties (color, breed)[to identify image ]
+
+           --> similarity search [not possible in sql and  no-sql]
+vector database  
+           
+![image](https://github.com/user-attachments/assets/f7a20487-d8aa-4ada-9498-6a856c85069c)
+![image](https://github.com/user-attachments/assets/8956957b-0025-48c2-afd7-1b96a75bf7cb)
+![image](https://github.com/user-attachments/assets/abacdced-4fb4-4bb7-8e99-16e667be38d0)
+![image](https://github.com/user-attachments/assets/6b1462c1-90e7-4ca8-b422-d0f8146ad1a8)
+
+1-train model 2- fine tuning 3-training from scratch 
+
+![image](https://github.com/user-attachments/assets/f9a9cdf7-4ca5-48f0-bd1f-f7e7ce22ef16)
+
+to generate Embedding we use
+
+1- word 2 vec
+
+2-ELMO
+
+3-Hugging face API ---> download embedding model --> pass embeddinng model -===will generate embeddig 
+
+4-open ai api
+
+text similarity option--similaity score ---> similarity search
+
+![image](https://github.com/user-attachments/assets/c8841dc6-de54-42f2-8f31-b1dc4717ff52)
+![image](https://github.com/user-attachments/assets/07654aca-21a2-4bcf-a361-a31b586e03a0)
+![image](https://github.com/user-attachments/assets/5f14c8fb-8526-41ae-90c2-54e3db0f3072)
+![image](https://github.com/user-attachments/assets/6cae840b-9a7b-4807-8917-257712590bc4)
+![image](https://github.com/user-attachments/assets/280bc5a5-4c22-4f21-b304-16f410452814)
+![image](https://github.com/user-attachments/assets/bdc89e8c-0bc7-41c6-9ea9-1b4a98433379)
+![image](https://github.com/user-attachments/assets/80d55975-c46f-468a-ae2c-251af6fbbeac)
 ![image](
 ![image](
 ![image](
 ![image](
-![image](
-![image](
+
 
 
 
