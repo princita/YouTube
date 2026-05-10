@@ -410,19 +410,20 @@ text similarity option--similaity score ---> similarity search
 ![image](https://github.com/user-attachments/assets/f30a913a-b9f7-46e9-8b48-fcf3b7fcb918)
 ![image](https://github.com/user-attachments/assets/88115736-52db-442b-8cf0-db76045eeb32)
 ![image](https://github.com/user-attachments/assets/77789a59-7455-43e7-b390-ad32d4c37fc7)
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-
+pine cone --> clound based
+chroma db --> local db
+![image](https://github.com/user-attachments/assets/85acc823-4cb6-46a9-a875-afa2a0fd2eea)
+![image](https://github.com/user-attachments/assets/4cce1532-9700-40f5-b422-f869a24a8196)
 ![image](
-
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
