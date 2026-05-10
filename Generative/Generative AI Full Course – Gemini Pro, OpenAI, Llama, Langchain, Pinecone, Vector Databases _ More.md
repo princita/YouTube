@@ -321,10 +321,44 @@ Vocabulary = [my ,name is waqar  he data scientst  working in youtube]
 [1 0 0 0 0 0 0 0 0 0] [0 1 0  0 0 0 0 0 0 0 0 ]---
    
    my                            name         
-    
+
 
 ![image](https://github.com/user-attachments/assets/ed1d7cf7-3f6a-4517-b64e-f9f3838b06ee)
 ![image](https://github.com/user-attachments/assets/3e288717-89e3-4a62-bb04-db632d124863)
+
+  Emedding:
+  
+  1- vocabulary
+
+  [king Queen Man Women Monkey ]
+  
+  2- features 
+
+[gender wealth power weight speak]
+
+
+
+![image](https://github.com/user-attachments/assets/090eb33c-62e3-4db1-b00b-28b95703b6ab)
+
+dense vector 
+
+has meaning 
+
+5D vector
+
+
+![image](https://github.com/user-attachments/assets/3af46b66-c9e3-4dc9-9cbc-eae668e7bc82)
+
+word2vec --> model by google trained on news articles ---> vecotr size 300 Dimension
+
+embedding 
+
+![image](https://github.com/user-attachments/assets/2b48edce-3f62-4026-970a-943bf080317b)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](
+![image](
 ![image](
 ![image](
 ![image](
