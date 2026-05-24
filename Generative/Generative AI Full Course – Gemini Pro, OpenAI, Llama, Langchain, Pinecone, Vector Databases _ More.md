@@ -554,11 +554,19 @@ make  front end
 ![image](https://github.com/user-attachments/assets/80d23f05-6f80-45f9-bed5-50e2d73c889d)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-
-
+![image](https://github.com/user-attachments/assets/3bac40bb-0b90-4087-96ba-e5bb1cb6f6dd)
 ![image](
 ![image](
-
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
