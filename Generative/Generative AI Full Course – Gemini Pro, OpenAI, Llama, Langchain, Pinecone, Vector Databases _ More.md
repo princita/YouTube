@@ -555,18 +555,37 @@ make  front end
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/3bac40bb-0b90-4087-96ba-e5bb1cb6f6dd)
+![image](https://github.com/user-attachments/assets/87f5af79-a4b6-4b43-a806-4109abc9cf29)
+![image](https://github.com/user-attachments/assets/20c58e36-69b7-42fd-99d1-246d636cc3fc)
+![image](https://github.com/user-attachments/assets/ed19d19b-d796-43fa-9d91-0951fd89a4d0)
+![image](https://github.com/user-attachments/assets/c44cae35-fe3e-4880-9a31-f58f52588f93)
+![image](https://github.com/user-attachments/assets/cda35475-f1d6-4334-89d5-8b65c23b2586)
+![image](https://github.com/user-attachments/assets/9b196866-dcdb-4871-97e1-2e4e2b2c189f)
+![image](https://github.com/user-attachments/assets/c0cd6b6c-640c-4f10-9a71-e614fb1dcf10)
+![image](https://github.com/user-attachments/assets/67fc4384-bad0-4bc3-b15b-594163daf312)
+![image](https://github.com/user-attachments/assets/990adf65-2ca1-4f51-abe0-4da9a776ff22)
+![image](https://github.com/user-attachments/assets/b131f629-193c-4acf-81db-f1ef7447808a)
+![image](https://github.com/user-attachments/assets/2931150b-d3df-4f68-b270-3eaaa927aca3)
+![image](https://github.com/user-attachments/assets/24ba3200-d0b2-4f96-98a2-0c6b4518f927)
+![image](https://github.com/user-attachments/assets/88637d1c-cd28-4c18-8fac-c2964d7d767d)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
+
+
+
+
+
+
+
+
+
+
+
 
 
 
