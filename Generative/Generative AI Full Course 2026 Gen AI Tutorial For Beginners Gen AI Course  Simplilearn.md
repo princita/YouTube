@@ -64,9 +64,11 @@ which tool ai uses along with power:
 
 4-varitional auto encoder
 
-5- foundational models
+5-foundational models
 
 NOTION AI --->TURNING NOTES INTO Organize databases
+
+component of Prompt --> set of instructions given to ai tool-->1- instuction 2-context 3- input data 4 - output format 
 
 ![image](https://github.com/user-attachments/assets/ea92ac89-03cf-4f1f-81f2-65a04a461208)
 ![image](https://github.com/user-attachments/assets/112c2c59-59b9-4a80-a5cd-245f466616a1)
