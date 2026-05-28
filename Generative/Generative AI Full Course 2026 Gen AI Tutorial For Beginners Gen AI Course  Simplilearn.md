@@ -1,5 +1,4 @@
 
-
 ![image](https://github.com/user-attachments/assets/1082ef2b-42a0-4127-8a4d-9d57f03e1248)
 ![image](https://github.com/user-attachments/assets/d451ec15-b23c-493d-90bf-09ec4dcacdb5)
 ![image](https://github.com/user-attachments/assets/3d381687-9a88-47c7-842e-254b88940e2e)
@@ -152,13 +151,36 @@ agent:
 ![image](https://github.com/user-attachments/assets/d604ae30-3f50-449b-a9b3-4171c92eac4a)
 ![image](https://github.com/user-attachments/assets/e996564e-3e25-4629-b31b-45b688b51d4c)
 ![image](https://github.com/user-attachments/assets/6a9fa333-ef6b-4214-861b-3d5e35046467)
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is an LLM benchmark?
+
+standardize tool use to evaluate the performance of LLM. They are used to test LMM in a specific task or question. using sample data or a predefined matrix
+to measure capabilities. These benchmarks assess various skills, such as coding, common sense reasoning, and NLP tasks like machine translation, question answering,
+text summarization 
+![image](https://github.com/user-attachments/assets/f113de13-69d4-4f8b-ad71-24f9e70a18e4)
+![image](https://github.com/user-attachments/assets/a97752c6-3239-481c-b0d6-820fad1889ce)
+![image](https://github.com/user-attachments/assets/53df74fb-ca48-4ecb-abe6-41a948781f82)
+![image](https://github.com/user-attachments/assets/53674b86-8971-4b7c-bde5-8177f78ee329)
+![image](https://github.com/user-attachments/assets/66e61511-735a-4ca8-985a-8604326f94af)
+![image](https://github.com/user-attachments/assets/74ef3073-bd2c-4a40-8943-43c073b192c5)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/2412a932-51ea-45a8-8e32-a9d0391f2a69)
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
