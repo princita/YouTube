@@ -432,14 +432,38 @@ VAES --->learns hidden representation of data  to create new or similar data
 Transformer --> excellent at understanding context and sequence, like text, image, and audio, using attention 
 diffusion --->create high-quality data by reversing or removing noise in the process
 
+![image](https://github.com/user-attachments/assets/402e323a-fc31-4872-8188-7cf94b4080ff)
+![image](https://github.com/user-attachments/assets/850aea10-bf18-43fd-9f5c-524e9f41ed0a) 
+![image](https://github.com/user-attachments/assets/6292423d-2d5d-4f44-aac2-f49b6be01dd9)
+![image](https://github.com/user-attachments/assets/b98caa9a-7627-4dd9-b9df-44022d9e35b8)
+![image](https://github.com/user-attachments/assets/52305612-b049-44b6-8b05-b60670d92587) 
+![image](https://github.com/user-attachments/assets/89fd4fae-5fd5-406e-9bef-83fa0fe70517)
+![image](https://github.com/user-attachments/assets/f1751fbf-9587-4f6c-af46-9c8d1da8345f)
+![image](https://github.com/user-attachments/assets/7921c0d8-0938-4c0d-8c4a-e6676c83ae74) 
+![image](https://github.com/user-attachments/assets/d74637ed-28a5-44d3-9d01-524452d1daa6)
+These models are trained on images with captions and videos with transcripts  
+![image](https://github.com/user-attachments/assets/52f46d6a-9d0c-4005-b53a-37740f4b8ef7) 
+![image](https://github.com/user-attachments/assets/061e7518-7597-4aa4-89cd-d80d791adf24)
+![image](https://github.com/user-attachments/assets/60414928-c0e5-4a29-ade0-f46b1eeec0b3) 
+![image](https://github.com/user-attachments/assets/4ed03df4-1ef3-4df0-81dc-2751704b6ee4)
+![image](https://github.com/user-attachments/assets/0d5870c6-e903-453b-afea-7494a992c33a)
+![image](https://github.com/user-attachments/assets/f3986a08-0ee1-4d15-ad25-1b89931aa207)
+![image](https://github.com/user-attachments/assets/0699628b-2582-4d7d-b62f-71b435afe8e2) 
+![image](https://github.com/user-attachments/assets/9b42a0b0-2ed6-4f0a-9a97-d26c2dfdb3b4)
+![image](https://github.com/user-attachments/assets/f26a9077-b03a-4819-93cb-a5b411041e71)
+![image](https://github.com/user-attachments/assets/5503f13f-5831-4de8-8d22-7b9280968a09)
 ![image](
-![image]( 
 ![image](
 ![image](
-![image]( 
 ![image](
 ![image](
-![image]( 
+![image](
+![image](
+![image](
+![image](
+
+
+
 
 
 
