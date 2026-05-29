@@ -389,24 +389,58 @@ text summarization
 ![image](https://github.com/user-attachments/assets/cc1f46f6-fa4a-4752-a195-fac48cd3058c)
 ![image](https://github.com/user-attachments/assets/4185bbf7-8d62-4430-bab3-c08acf5c0ee7)
 ![image](https://github.com/user-attachments/assets/6550ab01-51eb-454a-8a7c-b2646422d28b)
+![image](https://github.com/user-attachments/assets/b14d0099-7c62-4962-b566-6f8119fb35bf)
+![image](https://github.com/user-attachments/assets/921d5df4-db88-46d9-b680-a8de55c9c7bc)
+![image](https://github.com/user-attachments/assets/6d31e73d-37fe-4132-ac0f-a2008cee4b82)
+![image](https://github.com/user-attachments/assets/39f352f5-85e7-4f2a-8c00-2e7f84046053)
+![image](https://github.com/user-attachments/assets/8f1cf88f-e9a2-4652-a210-156c88fe0fee)
+![image](https://github.com/user-attachments/assets/59d10da4-94fd-4a5f-b574-f94e78146ac0)
+![image](https://github.com/user-attachments/assets/dd2daddf-9bf9-464e-84c4-1ac3a5dda848)
+![image](https://github.com/user-attachments/assets/fb96e121-1dbf-4d48-89ab-087870b87318)
+![image](https://github.com/user-attachments/assets/af6e2200-6148-4e0d-b04c-ad817c58f38e)
+![image](https://github.com/user-attachments/assets/c53e627e-59a6-457b-a662-cf112ad4d152)
+![image](https://github.com/user-attachments/assets/2ca6afe3-3bef-42b2-9d52-a576346db28d)
+![image](https://github.com/user-attachments/assets/2ecc3f29-d2bc-4251-bf01-71d63967f1a8)
+![image](https://github.com/user-attachments/assets/f9775629-c95c-4df9-9897-eda364d398a5)
+![image](https://github.com/user-attachments/assets/bec71193-7a88-40a2-9c61-60c51701ae98)
+![image](https://github.com/user-attachments/assets/529dc67d-237e-45b0-9c45-0a6f53d8f8f3)
+![image](https://github.com/user-attachments/assets/0d30103b-f94c-405c-bd74-84d2023c7a00)
+![image](https://github.com/user-attachments/assets/70a88514-58d2-4a68-8f5d-dd5330dcced9)
+![image](https://github.com/user-attachments/assets/81c0d011-dbbd-46ee-b897-91268cb0d553)
+![image](https://github.com/user-attachments/assets/952383e9-5631-4646-a5b4-3a796f93f669)
+![image](https://github.com/user-attachments/assets/15d524c7-eb79-4463-a853-6de91d5e6bb0)
+![image](https://github.com/user-attachments/assets/c42c7c5b-f76e-4b3f-8c0f-ddf59a62b49f)
+![image](https://github.com/user-attachments/assets/33dd40be-8fbc-45d3-9d7f-c0c7b4fcc98e)
+![image](https://github.com/user-attachments/assets/a8b1fc29-34b2-4f27-bb80-7d7b3c368404)
+![image](https://github.com/user-attachments/assets/d467f16f-76de-4194-a4ac-768498ba948a)
+![image](https://github.com/user-attachments/assets/ea17333d-4720-4fb2-9df3-8268539ee6dc)
+![image](https://github.com/user-attachments/assets/ca3c8563-cb29-4ddb-a6d4-b37c104213b9)
+![image](https://github.com/user-attachments/assets/fdcbee7a-d45b-4e62-9daa-2efea26af637)
+![image](https://github.com/user-attachments/assets/0db98efe-4fb1-44f8-9ac1-5c0770494dae)
+![image](https://github.com/user-attachments/assets/aaddfcaa-c074-4d28-9c8b-1ca32cd34913)
+![image](https://github.com/user-attachments/assets/29dfbafd-34f5-49aa-b503-5304e6477eca)
+![image](https://github.com/user-attachments/assets/97945657-df53-40e5-8bd2-0b8ca6db91e5)
+![image](https://github.com/user-attachments/assets/80f746e7-5b7e-4436-a799-1e0745e4ea51)
+![image](https://github.com/user-attachments/assets/b064642f-8d27-41f2-a7e4-8bdb55c92d16)
+![image](https://github.com/user-attachments/assets/4eb769d0-27ba-4491-9803-4b57f226404d)
+![image](https://github.com/user-attachments/assets/c6ffd75d-041d-4f6a-a4e9-830037dcd0bd)
+![image](https://github.com/user-attachments/assets/48c21253-7650-42ca-b10e-4f89682374a1)
+![image](https://github.com/user-attachments/assets/ff7d0678-e3c3-442a-8974-1d92e03a6267) 
+![image](https://github.com/user-attachments/assets/ec2e570f-9391-4d96-bd05-c1a0ab9a6ed3)
+GANs ---> two networks competing, one making fake data, the other trying to spot it. create realistic models
+VAES --->learns hidden representation of data  to create new or similar data 
+Transformer --> excellent at understanding context and sequence, like text, image, and audio, using attention 
+diffusion --->create high-quality data by reversing or removing noise in the process
+
+![image](
+![image]( 
 ![image](
 ![image](
+![image]( 
 ![image](
 ![image](
-![image](
-![image](
-![image](
-![image](
-![image](
+![image]( 
 
 
 
 
-
-
-
-
-
-
-
-410+]'N /
