@@ -452,16 +452,24 @@ These models are trained on images with captions and videos with transcripts
 ![image](https://github.com/user-attachments/assets/9b42a0b0-2ed6-4f0a-9a97-d26c2dfdb3b4)
 ![image](https://github.com/user-attachments/assets/f26a9077-b03a-4819-93cb-a5b411041e71)
 ![image](https://github.com/user-attachments/assets/5503f13f-5831-4de8-8d22-7b9280968a09)
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/80063db9-2a20-478f-8493-596e23cf47c8)
+![image](https://github.com/user-attachments/assets/a439ce9e-1f00-4cb5-87b2-d69c7ba29490)
+![image](https://github.com/user-attachments/assets/cd77e912-f609-4cdf-bb9e-f9cd37dc5988)
+![image](https://github.com/user-attachments/assets/0004d2bb-ccaf-4114-9181-5f36d6c8eef6)                                                               
+![image](https://github.com/user-attachments/assets/2a1c22a8-7f7b-45ea-adf1-6ff2b799d456)
+![image](https://github.com/user-attachments/assets/0ff33661-4b35-4b76-8c5f-1fb3e0bd78b7)
+![image](https://github.com/user-attachments/assets/711520cb-dbf8-446d-a94b-24b84b81b742)
+![image](https://github.com/user-attachments/assets/84ec1b2f-8ef9-43c2-b080-64e4f58964fd)
+![image](https://github.com/user-attachments/assets/ddbbee43-8b8f-459f-8e09-fa0f57fdc9a1)
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
