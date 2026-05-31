@@ -528,11 +528,41 @@ These models are trained on images with captions and videos with transcripts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/34206ceb-1c33-4902-8f96-dd7a5199390b)
+![image](https://github.com/user-attachments/assets/22dbbc03-99eb-4f07-974a-2bbebacf6431)
+![image](https://github.com/user-attachments/assets/21a51671-0142-4259-9766-cddb2ec75524)
+![image](https://github.com/user-attachments/assets/cc9b7edd-ba96-43ea-bcd7-830b43706f1e)
+![image](https://github.com/user-attachments/assets/c554c45d-2b24-4310-8ab1-b6866ca6bfdf)
+![image](https://github.com/user-attachments/assets/2de28fc8-eee8-4b99-a0ae-08a74ffcefe9)
+![image](https://github.com/user-attachments/assets/0caad840-acae-43ea-934f-d14b0af9724f)
+![image](https://github.com/user-attachments/assets/f5e00b51-341c-40f9-89e7-febec818c902)
+![image](https://github.com/user-attachments/assets/e88e56d7-2ef9-4e47-8f30-f575edc5e2a8)
+![image](https://github.com/user-attachments/assets/8c588444-b7ac-438c-9e4d-9faa147ddd8e)
+![image](https://github.com/user-attachments/assets/ae3ae935-bc76-4240-8d4f-23eda6de7d54)
+![image](https://github.com/user-attachments/assets/7c46bca0-1b04-47cd-9c88-e763e5d7c367)
+![image](https://github.com/user-attachments/assets/08d30377-a3bb-48a6-b97a-fd2e6b3e4ffd)
+![image](https://github.com/user-attachments/assets/deae240b-d5b5-4552-a6dd-a0ab5a5bd295)
+![image](https://github.com/user-attachments/assets/5811fa6e-abc9-42f7-bf36-d470b9ce0861)
+![image](https://github.com/user-attachments/assets/5e9bd991-fe5f-4040-89ae-43e54899f2ca)
+![image](https://github.com/user-attachments/assets/458669ef-3bd7-4df1-9c8c-6e6e0f8912db)
+![image](https://github.com/user-attachments/assets/dfa1b91a-1d28-4d41-98b9-eab42d0ed6a9)
+![image](https://github.com/user-attachments/assets/6167da88-b155-4573-a8ce-1bf50c5269a9)
+![image](https://github.com/user-attachments/assets/cfebcd9d-0c87-4338-8974-7f14a247d9e5)
+![image](https://github.com/user-attachments/assets/48385606-0708-4e93-b08a-dba14736e1ef)
+![image](https://github.com/user-attachments/assets/63a3a755-75d0-4671-a839-151280898b01)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
+![image](
+![image](
+![image](
+![image]( 
+
 
 
 
