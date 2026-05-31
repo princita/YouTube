@@ -1,4 +1,4 @@
-
+<img width="1986" height="1288" alt="image" src="https://github.com/user-attachments/assets/f65cc9f1-f82a-4b73-966c-b6ff5ad65f77" /><img width="1986" height="1288" alt="image" src="https://github.com/user-attachments/assets/40dc0241-b25e-4a9e-83ef-f68ac4cca61e" />
 ![image](https://github.com/user-attachments/assets/1082ef2b-42a0-4127-8a4d-9d57f03e1248)
 ![image](https://github.com/user-attachments/assets/d451ec15-b23c-493d-90bf-09ec4dcacdb5)
 ![image](https://github.com/user-attachments/assets/3d381687-9a88-47c7-842e-254b88940e2e)
@@ -504,17 +504,35 @@ These models are trained on images with captions and videos with transcripts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/55ee3092-b95f-4fd1-a372-8234446f85c1)
+![image](https://github.com/user-attachments/assets/7d44bdc9-9b42-4525-acda-5a428f64f01a)
+![image](https://github.com/user-attachments/assets/2f23fca6-aaf9-453c-b51e-aeff8c4943c6)
+![image](https://github.com/user-attachments/assets/064581a1-4d49-4f56-b1f8-72e90c03f9c7)
+![image](https://github.com/user-attachments/assets/0debed49-b54a-49f1-9915-49f76569a015)
+![image](https://github.com/user-attachments/assets/00f8d4f5-632c-4b23-a000-dc48811b00fe)
+![image](https://github.com/user-attachments/assets/d35f00c2-07ba-4212-a2d9-13f61595d2fe)
+![image](https://github.com/user-attachments/assets/d01545d1-796b-4105-aa51-d51f66b238b6)
+![image](https://github.com/user-attachments/assets/d2779159-1492-4140-a85c-3da3ea6da12d)
+![image](https://github.com/user-attachments/assets/3a9f022d-a7ad-4acd-b9e5-859cef7f61cf)
+![image](https://github.com/user-attachments/assets/30924072-f738-4c46-b61e-7b2fad00c54f)
+![image](https://github.com/user-attachments/assets/cc7aa112-dda8-4162-a9cc-64b52c3caa4b)
+![image](https://github.com/user-attachments/assets/d4272a3a-61fe-406d-828f-aa6fd9f1737d)
+![image](https://github.com/user-attachments/assets/45f74a22-f870-4b01-b2ef-53c8c088bb19)
+![image](https://github.com/user-attachments/assets/4707218a-66af-4fd1-8356-124ca03aa2bc)
+![image](https://github.com/user-attachments/assets/58959001-2104-4f0c-9fec-f4f94f3cd5d7)
+![image](https://github.com/user-attachments/assets/24b84d10-2aab-48a7-a70d-694f3caeeca0)
+![image](https://github.com/user-attachments/assets/d0869c2d-169b-4ef8-a8bc-922192e009fb)
+![image](https://github.com/user-attachments/assets/15f8823d-76eb-4f99-904f-7c16ed0683de)
+![image](https://github.com/user-attachments/assets/7689d7ee-3dca-40bf-a11f-0a23a3545087)
+![image](https://github.com/user-attachments/assets/c039ec05-8228-4cc9-8601-6eaf1e22a233)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
