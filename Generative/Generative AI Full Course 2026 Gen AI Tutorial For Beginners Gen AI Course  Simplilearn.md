@@ -553,17 +553,36 @@ These models are trained on images with captions and videos with transcripts
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/4d651199-e24f-487f-809d-66f9a06607ad)
+![image](https://github.com/user-attachments/assets/7a2d375b-3d43-46b2-9d9b-4a5413c39568)
+![image](https://github.com/user-attachments/assets/749b358d-09fc-493b-bcd3-f7fffe4121a5)
+![image](https://github.com/user-attachments/assets/03b028cd-86a1-4f0e-b135-ada732d0dfc2)
+![image](https://github.com/user-attachments/assets/1ae93007-4ebf-4755-80c7-d03f275a2a6d)
+![image](https://github.com/user-attachments/assets/9402b9b7-6efa-4fe6-a662-1e5f0169d86b)
+![image](https://github.com/user-attachments/assets/34320415-c608-4ba1-9c78-3d1d33b32243)
+![image](https://github.com/user-attachments/assets/52281d0f-ea7a-4f74-910a-3581e4d3bb24)
+![image](https://github.com/user-attachments/assets/1c422257-8f85-4e6b-9e5d-27d6edf966be) 
+![image](https://github.com/user-attachments/assets/73641d00-2f5d-4319-98ec-9178ae69a203) 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/d24f458d-38fa-427c-bd3e-1dbf81da3d10) 
+![image](https://github.com/user-attachments/assets/008a3a27-0e22-4d71-9cee-7174aff752bb) 
+![image](https://github.com/user-attachments/assets/c3820f7c-07c0-4381-826a-037e3190cec2) 
+![image](https://github.com/user-attachments/assets/1480ef68-13d0-468b-88c2-f9d27fc28777) 
+![image](https://github.com/user-attachments/assets/d72194c6-2abc-4b8d-a799-fd9761a03131)
+![image](https://github.com/user-attachments/assets/f57aa563-116c-40fb-b6cc-84e0e83c6549) 
+![image](https://github.com/user-attachments/assets/b5a40c22-c232-4a35-bd21-fee928fc3561) 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/d6354a9f-a506-485f-9d78-e31090d7a26e)
+![image]( 
+![image]( 
 ![image](
 ![image]( 
-
-
+![image]( 
+![image](
 
 
 
