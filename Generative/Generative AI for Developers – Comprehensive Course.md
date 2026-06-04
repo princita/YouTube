@@ -554,6 +554,9 @@ Token text splitter
 ![image](https://github.com/user-attachments/assets/30406f2f-1615-48fa-ba8a-e6d503dd962e)
 ![image](https://github.com/user-attachments/assets/4986046f-615b-4d1d-b9fb-fa6bd1896c44)
 ![image](https://github.com/user-attachments/assets/5366eb8c-1ec9-4cd7-a974-75b60e98fc1b)
+![image](https://github.com/user-attachments/assets/8abe7792-1d95-4ff9-8ffa-965f32d95846)
+![image](https://github.com/user-attachments/assets/6f183435-e22c-46d0-90f0-f2213207c0e2)
+![image](https://github.com/user-attachments/assets/20193f0a-6c30-46d9-9d5d-8226d6908241)
 ![image](
 ![image](
 ![image](
@@ -566,10 +569,7 @@ Token text splitter
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-![image](
-![image](
+![image]( 
 
 
 
