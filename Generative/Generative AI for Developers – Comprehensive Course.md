@@ -433,7 +433,15 @@ words single word
 ![image](https://github.com/user-attachments/assets/0cd9e229-2a6d-4aa1-9664-614ad40763df)
 ![image](https://github.com/user-attachments/assets/6d72d95b-222f-469b-b749-e060fb70a957) 
 ![image](https://github.com/user-attachments/assets/95da6ee8-e834-4d73-ab91-8a67ef679b23)
-![image]( 
+![image](https://github.com/user-attachments/assets/01f996d8-3ab6-4465-ab86-14c561a471cb) 
+![image](https://github.com/user-attachments/assets/2b13b8c8-6a6c-459f-bb68-2e4faab3f75e)
+![image](https://github.com/user-attachments/assets/0020f205-a38f-4376-ace2-3234ce6356fc) 
+![image](https://github.com/user-attachments/assets/9a0525c3-a404-43e7-b770-95537eec147e)
+![image](https://github.com/user-attachments/assets/07007976-152e-4004-8548-eaece214a72e) 
+![image](https://github.com/user-attachments/assets/e3115375-bd1c-4bbe-9028-d211c3e80b04)
+![image](https://github.com/user-attachments/assets/85c27dbe-e86c-4da5-b79c-6766d609bd11) 
+![image](https://github.com/user-attachments/assets/352a77c2-cb75-4c0f-9c23-440a531b37e6)
+![image](https://github.com/user-attachments/assets/a49b4320-5b14-48a7-838a-4bf87cf39463) 
 ![image](
 ![image]( 
 ![image](
@@ -442,16 +450,6 @@ words single word
 ![image]( 
 ![image](
 ![image]( 
-![image](
-![image]( 
-![image](
-![image]( 
-![image](
-![image]( 
-![image](
-![image]( 
-
-
 
 
 
