@@ -779,23 +779,38 @@ LAMMA INDEX: Same as LangChain
 ![image](https://github.com/user-attachments/assets/13972a4d-3c14-4c8b-97f3-2466e88c28b6)
 ![image](https://github.com/user-attachments/assets/3e5e1ce2-b597-4139-978b-c93bbcd55df3)
 ![image](https://github.com/user-attachments/assets/c3745931-7729-4eb7-8378-d1dc8d56dde3)
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/689348b8-c609-44bc-9cc3-ddd5c932da19)
+![image](https://github.com/user-attachments/assets/80ee4aa5-a579-441c-a96f-79277950fed8)
+![image](https://github.com/user-attachments/assets/2d3b51a4-5407-4104-b6df-70e00ea9f900)
+![image](https://github.com/user-attachments/assets/d479b8f4-6099-417d-907a-151fc3b99f18)
+![image](https://github.com/user-attachments/assets/1de2bedd-3479-4828-b063-86e5eabae879)
+![image](https://github.com/user-attachments/assets/075452f5-e3d4-473a-8522-53ee7a67b3a2)
+![image](https://github.com/user-attachments/assets/93d2394e-0475-413b-84fc-3460204c8a31)
+![image](https://github.com/user-attachments/assets/90911c93-bf15-4aef-a0e7-8cff3f9596e6)
+![image](https://github.com/user-attachments/assets/d074379c-5156-4511-ba4b-30fede93f336)
+![image](https://github.com/user-attachments/assets/03858fa8-d92e-4fc0-b090-b98035970b82)
+![image](https://github.com/user-attachments/assets/820743ed-0743-4a4b-a8bd-d71bbc1ddecd)
+![image](https://github.com/user-attachments/assets/e48eade3-5a7f-4694-ab4b-ad6d0c1f17b7)
+![image](https://github.com/user-attachments/assets/1a4b3570-36bc-42cc-9c88-9053c158ff9c)
 
-
-
-
+![image](https://github.com/user-attachments/assets/3adc31af-6189-4ff4-9e9a-96313363776c)
+![image](https://github.com/user-attachments/assets/067b3713-440c-4692-b0b4-1cf779aaeaf4)
+![image](https://github.com/user-attachments/assets/2270b1a7-b88c-49b0-b605-7c44bc851e9d)
+![image](https://github.com/user-attachments/assets/feea010d-b123-493e-acab-d2487a0f669c)
+![image](https://github.com/user-attachments/assets/d091110e-a946-435f-9c40-55938d3a2e93)
+![image](https://github.com/user-attachments/assets/2cd3fe64-11b2-40da-ba2e-35f95b09599c)
+![image](https://github.com/user-attachments/assets/7d90c3a7-9e5f-4955-b26b-3fc1ed8399ce)
+![image](https://github.com/user-attachments/assets/61194d02-d345-44eb-bcdb-782e909e8cbe)
+![image](https://github.com/user-attachments/assets/36c4a6a0-f767-46b3-ab4c-30e9907b104a)
+![image](https://github.com/user-attachments/assets/375c281d-5236-428c-ae7e-89b3fe2eafc0)
+![image](https://github.com/user-attachments/assets/11819f28-d9f9-42eb-b679-57293488d48b)
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
 
