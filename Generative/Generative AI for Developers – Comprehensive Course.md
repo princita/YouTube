@@ -840,8 +840,37 @@ LAMMA INDEX: Same as LangChain
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/786f8445-dccd-4f6b-893b-0ebdc5c4c42c)
-![image](
+![image](https://github.com/user-attachments/assets/a762024b-b06a-4826-896b-527e96e0fe01)
+![image](https://github.com/user-attachments/assets/75aaee67-3851-4f48-be6a-8ba3114b83fe) 
+![image](https://github.com/user-attachments/assets/46a3c459-932d-45bd-b46c-725a0c40bc3d)
+![image](https://github.com/user-attachments/assets/a636a33c-592f-4c51-b8f6-65a6ea254db0) 
+![image](https://github.com/user-attachments/assets/f6443165-c309-4777-a2c7-aaca5215d0c3)
+![image](https://github.com/user-attachments/assets/a2a6b760-a7b8-4e34-9e08-bd4deba1085d)
+![image](https://github.com/user-attachments/assets/92387d01-f45f-4ca9-84f1-988495f74133)
+![image](https://github.com/user-attachments/assets/6c528779-cc63-42d9-999f-c9fbf6ad0240) 
+![image](https://github.com/user-attachments/assets/b51689ae-eb65-4d64-ab64-f5093d16f92b)
+![image](https://github.com/user-attachments/assets/d231116a-465c-4b0f-a40b-512ae444a7bd) 
+![image](https://github.com/user-attachments/assets/8b5dca22-386a-4fda-b73c-9be23385f85f) 
+![image](https://github.com/user-attachments/assets/8b4771f6-3972-4e18-90b4-227625b48203) 
 ![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+![image]( 
+
+
 
 
 
