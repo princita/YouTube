@@ -973,7 +973,7 @@ BOTO3 ---> CONNECTION WITH AWS
 ![image](https://github.com/user-attachments/assets/4857b4e9-c124-4381-86c4-dec07d903f50)
 ![image](https://github.com/user-attachments/assets/870f3248-3776-4e90-876a-1cfb58fa34a5)
 ![image](https://github.com/user-attachments/assets/b4bf69b2-42da-42a1-b6b3-1ecf0ea1b273)
-![image](
+![image](https://github.com/user-attachments/assets/a35fc35d-b7b2-4772-8258-103c1f23a997)
 ![image](
 ![image](
 ![image](
