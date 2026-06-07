@@ -879,6 +879,12 @@ LAMMA INDEX: Same as LangChain
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/94d2fe36-e43f-4f17-a686-9ebfc344054d) 
+![image](https://github.com/user-attachments/assets/064ea695-7229-48ec-a3d3-6138e1e68770) 
+![image](https://github.com/user-attachments/assets/f929a14d-0fbd-4bb3-b122-a1c6e8176ee8) 
+![image](https://github.com/user-attachments/assets/a61ae4ff-40e5-4367-bbe4-70a77903eaef) 
+AWS SageMaker --> ingest, train, evaluate, deploy 
+DLC --> deep learning container in AWS
+![image](https://github.com/user-attachments/assets/59b50775-c4e4-49c8-ba3d-7cec57407eec) 
 ![image]( 
 ![image]( 
 ![image]( 
@@ -887,9 +893,6 @@ LAMMA INDEX: Same as LangChain
 ![image]( 
 ![image]( 
 ![image]( 
-![image]( 
-![image]( 
-
 
 
 
