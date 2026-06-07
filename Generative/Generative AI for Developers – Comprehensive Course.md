@@ -950,12 +950,40 @@ Azure ---> Azure Open AI
 ![image](https://github.com/user-attachments/assets/c86bd782-1a03-4e75-a351-ed30b7ad997c)
 ![image](https://github.com/user-attachments/assets/eddf700c-ada3-4276-93b6-5a7f14136258)
 ![image](https://github.com/user-attachments/assets/4359251f-ea2a-45f1-8cd7-21009ce1b02f)
+![image](https://github.com/user-attachments/assets/028bb1c6-a91a-4105-8aec-8ca26efa4c7c)
+![image](https://github.com/user-attachments/assets/fb365cae-bba4-4bc9-a068-2ff6a860fa40)
+![image](https://github.com/user-attachments/assets/99c13b6c-7785-4f7b-8019-450a64108597)
+![image](https://github.com/user-attachments/assets/bafd95e9-d88d-48c9-a223-db7d825fb0e5)
+![image](https://github.com/user-attachments/assets/c33e0e00-8954-42b1-8bdd-7e76e96a78eb)
+![image](https://github.com/user-attachments/assets/8b638a8c-af90-4267-a425-f769a8c5523e)
+![image](https://github.com/user-attachments/assets/d251d67d-741c-4b26-a2df-653611b6d453)
+![image](https://github.com/user-attachments/assets/b116ae98-fd8c-4636-bcf5-dd0b95f1ccfd)
+![image](https://github.com/user-attachments/assets/981020eb-3a71-4a1b-b5be-8f9901eaee23)
+![image](https://github.com/user-attachments/assets/a77c1033-ad8c-45a4-8420-679415e7bea8)
+![image](https://github.com/user-attachments/assets/63d34798-c857-4699-b072-3cbab531afec)
+![image](https://github.com/user-attachments/assets/6b2318de-8499-4363-b19b-98262226d0c5)
+![image](https://github.com/user-attachments/assets/caa60681-610d-473f-85b7-1de8978d80d1)
+![image](https://github.com/user-attachments/assets/f92b15ff-69ec-4843-a6e8-d5f5235bfc30)
+![image](https://github.com/user-attachments/assets/977d9b86-fd61-4b97-961c-d5ea7ae80b13)
+BOTO3 ---> CONNECTION WITH AWS
+![image](https://github.com/user-attachments/assets/12862249-1b73-4eee-9a9a-fb5ee20a8f62)
+![image](https://github.com/user-attachments/assets/13359ce1-e55f-417c-9634-c26b2efaf2e6)
+![image](https://github.com/user-attachments/assets/870a173c-a791-4602-887a-3f4db5284ac5)
+![image](https://github.com/user-attachments/assets/22dd91e6-2d87-4315-8e9a-a3eb01898868)
+![image](https://github.com/user-attachments/assets/4857b4e9-c124-4381-86c4-dec07d903f50)
+![image](https://github.com/user-attachments/assets/870f3248-3776-4e90-876a-1cfb58fa34a5)
+![image](https://github.com/user-attachments/assets/b4bf69b2-42da-42a1-b6b3-1ecf0ea1b273)
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
+![image](
+![image](
+![image](
+
+
 
 
 
