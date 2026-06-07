@@ -884,6 +884,8 @@ LAMMA INDEX: Same as LangChain
 ![image](https://github.com/user-attachments/assets/a61ae4ff-40e5-4367-bbe4-70a77903eaef) 
 AWS SageMaker --> ingest, train, evaluate, deploy 
 DLC --> deep learning container in AWS
+gooogle ---> vertex AI --> MLOPS
+AWS--> Bedrock ---> LLMOPS
 ![image](https://github.com/user-attachments/assets/59b50775-c4e4-49c8-ba3d-7cec57407eec) 
 ![image]( 
 ![image]( 
