@@ -886,15 +886,17 @@ AWS SageMaker --> ingest, train, evaluate, deploy
 DLC --> deep learning container in AWS
 gooogle ---> vertex AI --> MLOPS
 AWS--> Bedrock ---> LLMOPS
+Azure ---> Azure Open AI
 ![image](https://github.com/user-attachments/assets/59b50775-c4e4-49c8-ba3d-7cec57407eec) 
+![image](https://github.com/user-attachments/assets/12a02421-3a6a-460e-a1e2-e5e8b508470a) 
+![image](https://github.com/user-attachments/assets/4726a3ed-db8e-4f8b-b27b-12a37c48ebc1)
+![image](https://github.com/user-attachments/assets/a7d46282-adec-42f8-a3e2-c4130590ae0b) 
+![image](https://github.com/user-attachments/assets/ff493f46-e153-4f90-a7bf-93ccebfb9fd4) 
+![image](https://github.com/user-attachments/assets/edd091ff-a737-411a-80e9-322440374dc2) 
 ![image]( 
 ![image]( 
 ![image]( 
-![image]( 
-![image]( 
-![image]( 
-![image]( 
-![image]( 
+
 
 
 
