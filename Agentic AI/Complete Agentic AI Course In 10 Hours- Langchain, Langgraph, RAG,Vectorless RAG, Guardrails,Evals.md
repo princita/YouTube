@@ -137,10 +137,22 @@
 ![image](https://github.com/user-attachments/assets/f6d2d83f-d0b0-4ddc-b864-a6062414f534)
 ![image](https://github.com/user-attachments/assets/dcf18c0e-75bc-4a0b-9359-392ce30c19e9)
 ![image](https://github.com/user-attachments/assets/d405022d-23f4-49be-af51-133dec0cdd12)
+![image](https://github.com/user-attachments/assets/cdf56663-6be9-41f7-b88e-a47c1755dc30)
+![image](https://github.com/user-attachments/assets/26972832-7e2f-4b06-a3d6-ef59996de58b)
+![image](https://github.com/user-attachments/assets/e8fcfc7b-a31a-4cb9-83b7-3b9beb14fe6d)
+![image](https://github.com/user-attachments/assets/18af0693-b831-42a6-9fd2-dbdd0350cfd6)
+Doc string --> brief information about what the tool does
 ![image](
 ![image](
 ![image](
 ![image](
 ![image](
-
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
