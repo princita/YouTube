@@ -1,6 +1,8 @@
+<img width="3604" height="1762" alt="image" src="" />
 
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/1623dc81-ae7a-4fd5-81f1-2c80c4981fde)
+![image](https://github.com/user-attachments/assets/4aadd755-8b1d-4569-b3e9-420a5eb9da56)
+LLM --- Label by human ---> Reinforcement Learning by human feedback ---> data is converted into MCQ 
 ![image](
 ![image](
 ![image](
