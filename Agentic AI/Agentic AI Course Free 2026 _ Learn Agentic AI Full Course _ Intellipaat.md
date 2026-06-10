@@ -34,11 +34,11 @@ input tokens + output tokens ---> context window
 ![image](https://github.com/user-attachments/assets/eb2b8257-50c4-4df4-8dcb-d3e9ca7703d9)
 ![image](https://github.com/user-attachments/assets/67b313a7-d4e9-4ce9-bea6-a1638c9a345c)
 ![image](https://github.com/user-attachments/assets/20299235-6f6c-4529-a33c-bc8e27b17720)
-![image](
-![image](
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/c415b522-6103-4f94-ba3e-adf98c4703cb)
+![image](https://github.com/user-attachments/assets/5f34656c-8609-4b93-be61-5d28833d1cda)
+![image](https://github.com/user-attachments/assets/7145b05a-1b92-4a9d-a381-1162a48e41c6)
+![image](https://github.com/user-attachments/assets/1c1b0195-0245-4481-929c-21e0b2cd41a9)
+![image](https://github.com/user-attachments/assets/f7d59ee6-feee-4ab7-9e5f-562c5ff8f563)
 ![image](
 ![image](
 ![image](
