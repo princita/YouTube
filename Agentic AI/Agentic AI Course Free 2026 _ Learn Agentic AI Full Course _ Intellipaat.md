@@ -1,7 +1,4 @@
 
-
-
-
 ![image](https://github.com/user-attachments/assets/1623dc81-ae7a-4fd5-81f1-2c80c4981fde)
 ![image](https://github.com/user-attachments/assets/4aadd755-8b1d-4569-b3e9-420a5eb9da56)
 LLM --- Label by human ---> Reinforcement Learning by human feedback ---> data is converted into MCQ 
@@ -40,6 +37,19 @@ input tokens + output tokens ---> context window
 ![image](https://github.com/user-attachments/assets/1c1b0195-0245-4481-929c-21e0b2cd41a9)
 ![image](https://github.com/user-attachments/assets/f7d59ee6-feee-4ab7-9e5f-562c5ff8f563)
 ![image](https://github.com/user-attachments/assets/1f0b431a-8a87-4aac-92f3-0bc41bb23388)
+![image](https://github.com/user-attachments/assets/0e90dc32-9798-4683-98e8-3e753fc2e5e3)
+agent --->know when to break loop 
+         observation --> no more Action to take----> internal understanding of model 
+                      --> external understanding 
+![image](https://github.com/user-attachments/assets/cd72af26-00fe-46dc-9444-5593bca20474)
+![image](https://github.com/user-attachments/assets/2ffc58aa-4634-4c6c-bffe-95acf9d5f78a)
+![image](https://github.com/user-attachments/assets/aa1206b4-4538-4b57-b15c-73b8973b5b9e)
+![image](https://github.com/user-attachments/assets/ee961f90-3db4-4518-87df-0615842c8706)
+![image](https://github.com/user-attachments/assets/2112a5ad-8c3f-467d-9310-57e2dfe17559)
+![image](https://github.com/user-attachments/assets/144009b1-5380-476c-8049-ba7d0c95facc)
+![image](https://github.com/user-attachments/assets/424f81ff-7e0d-48e7-a669-512853ea3975)
+![image](https://github.com/user-attachments/assets/9f25ad11-7fbf-400a-b38d-a05e89b8d1e7)
+![image](https://github.com/user-attachments/assets/8fb51d16-7639-4adc-9f4e-5c6db6ce9285)
 ![image](
 ![image](
 ![image](
@@ -52,3 +62,10 @@ input tokens + output tokens ---> context window
 ![image](
 ![image](
 ![image](
+![image](
+![image](
+
+
+
+
+
