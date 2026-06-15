@@ -50,9 +50,9 @@ agent --->know when to break loop
 ![image](https://github.com/user-attachments/assets/424f81ff-7e0d-48e7-a669-512853ea3975)
 ![image](https://github.com/user-attachments/assets/9f25ad11-7fbf-400a-b38d-a05e89b8d1e7)
 ![image](https://github.com/user-attachments/assets/8fb51d16-7639-4adc-9f4e-5c6db6ce9285)
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/206a3431-8a73-4142-a57e-d9e557966b58)
+![image](https://github.com/user-attachments/assets/cbd376c8-e1f5-4411-922f-c1a99eb07bd4)
+![image](https://github.com/user-attachments/assets/3ddb6118-efb3-448d-9cc5-0e81f45befec)
 ![image](
 ![image](
 ![image](
