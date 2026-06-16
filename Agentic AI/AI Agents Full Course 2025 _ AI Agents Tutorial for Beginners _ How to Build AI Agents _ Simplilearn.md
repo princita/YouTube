@@ -100,6 +100,24 @@ CUA--- > computer user agent
 ![image](https://github.com/user-attachments/assets/e73f57b4-fbf8-457e-9d70-1bf86ea9fe6c)
 ![image](https://github.com/user-attachments/assets/37c2a40b-2a70-496f-af39-9b226f4c8c64)
 ![image](https://github.com/user-attachments/assets/94440009-e48b-4972-a833-3fa260e9c14f)
+![image](https://github.com/user-attachments/assets/cc20a023-9b31-408a-9d64-11527d3102e9)
+![image](https://github.com/user-attachments/assets/169f2252-87dd-4852-a62d-f477db86f3c2)
+![image](https://github.com/user-attachments/assets/7a7b9fac-5a41-4ed2-81b8-e39fd1abd80f)
+![image](https://github.com/user-attachments/assets/5e6e4c27-dec2-4aa0-a0de-f7a8835ea988)
+![image](https://github.com/user-attachments/assets/f5f2b2d8-2247-4a1d-bb25-a900baa741f7)
+![image](https://github.com/user-attachments/assets/c03b8a2c-aae2-488f-9430-7e1daec5db8d)
+![image](https://github.com/user-attachments/assets/093b803b-ce0d-4f39-8a8b-8ca527d482fa)
+![image](https://github.com/user-attachments/assets/d328e721-293c-4323-9e9e-508fda7a0833)
+![image](https://github.com/user-attachments/assets/4ffa04e2-b474-4c23-bb49-ab139718a560)
+![image](https://github.com/user-attachments/assets/2018de3d-7394-4f38-8eda-10668afd0d7a)
+![image](https://github.com/user-attachments/assets/c616c8c1-ba6a-4822-a01b-8a440e14fca0)
+![image](https://github.com/user-attachments/assets/034e7839-f0eb-4e93-bc36-7a26a1a13679)
+![image](https://github.com/user-attachments/assets/13bc4d9c-7a2d-4f2f-a948-2e1fe9e5ad18)
+Perceiving --> 1-data extraction.2-feature extraction, preprocessing 32 - entity recognition and object detection 
+Reasoning --> LMM model-based decision making 
+Act --> autonomous action 
+Learning --> feedback loop 
+![image](https://github.com/user-attachments/assets/ce64c1ce-1439-4f62-96c2-a28ae1dd7117)
 ![image](
 ![image](
 ![image](
@@ -110,7 +128,4 @@ CUA--- > computer user agent
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-
 
