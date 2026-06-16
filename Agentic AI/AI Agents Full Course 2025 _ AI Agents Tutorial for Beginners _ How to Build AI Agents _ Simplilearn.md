@@ -1,4 +1,4 @@
-<img width="2944" height="1734" alt="image" src="https://github.com/user-attachments/assets/920f6066-c60e-45a2-b4e0-6b8be7fcf8d5" />![image](https://github.com/user-attachments/assets/5b6bcf77-24c2-4bfc-bead-667d8828ec8d)
+
 ![image](https://github.com/user-attachments/assets/a5ad1e3d-0170-472a-966f-fbf27607a602)
 ![image](https://github.com/user-attachments/assets/b8ebfa1b-0a4d-44ea-ba22-c7b9060ead30)
 ![image](https://github.com/user-attachments/assets/ecec28e7-ab90-49b9-b552-dba66cf228fe)
@@ -276,9 +276,34 @@ coding assistant : 1- github copilot 2-codeium 3-Replit Ghost writer 4-tabnine 6
 ![image](https://github.com/user-attachments/assets/74753666-3fd2-40e4-8153-201fef37581f)
 ![image](https://github.com/user-attachments/assets/8dbe44f0-9ee7-470a-8eb0-afdd3390fa68)
 ![image](https://github.com/user-attachments/assets/77fed172-3453-4dbc-a65b-441b6e6f1589)
+![image](https://github.com/user-attachments/assets/93177a32-afae-4eed-a312-5fbf543227e4)
+![image](https://github.com/user-attachments/assets/bb3b4a49-f604-4803-ad47-5d066cc481c6)
+![image](https://github.com/user-attachments/assets/6dd4fb8a-a2d3-4780-b6c2-c39ca22f4d94)
+![image](https://github.com/user-attachments/assets/9f0c7097-627a-49c5-9923-5da5e58543b6)
+![image](https://github.com/user-attachments/assets/cb598d1c-d914-45d5-b9cf-78daf5a8ac7b)
+![image](https://github.com/user-attachments/assets/d3367ad6-b6ec-4004-89ec-79cf5896a3b7)
+![image](https://github.com/user-attachments/assets/0ae1dd35-e29c-477c-b7f3-6c5185236fbe)
+![image](https://github.com/user-attachments/assets/bb70a613-e37e-421e-ba8d-6001a22a0500)
+![image](https://github.com/user-attachments/assets/1b8f4b67-4f5d-4f4f-99c1-765a8dd80e23)
+![image](https://github.com/user-attachments/assets/33f5cf5c-bd6f-45e4-aa38-ef120090640f)
+![image](https://github.com/user-attachments/assets/3a058cac-2333-488b-af2c-3e7f27193c11)
+![image](https://github.com/user-attachments/assets/e3a2a4b9-717e-4b01-85d7-7df3d1245807)
+![image](https://github.com/user-attachments/assets/be301fbc-1343-4250-91e2-a6f5f23916b1)
+![image](https://github.com/user-attachments/assets/d391d7c3-c242-4522-bbb3-cbef8a7381c0)
+![image](https://github.com/user-attachments/assets/0d0548c2-afde-4e19-a3ef-059cbd2c075b)
+![image](https://github.com/user-attachments/assets/f17e3b9d-8dad-45bf-a045-b498e8c09ea4)
 ![image](
 ![image](
 ![image](
+
+
+
+
+
+
+
+
+
 
 
 
