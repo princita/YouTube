@@ -259,6 +259,12 @@ Learning --> feedback loop
 ![image](https://github.com/user-attachments/assets/81f0d02e-0432-4f5d-a063-f5a5accbc757)
 ![image](https://github.com/user-attachments/assets/9c3f8b05-1d8a-49da-970f-1a682c88fcb2)
 ![image](
+
+image generation:- 1-midjourney 2-dall-e-3 3-stable diffusion 4-Leonardo AI 5-Adobe Firefly 6-Playground AI 7-NightCafe 8-fotor ai 9-deep dream generator
+Voice generation: 1-Eloeven Labs 2-Murf AI 3-LOVO AI 4-play.ht 5-Resemble AI 6-Descripts overdub 7-Type cast 8-speechify9-synthesis 10-podcastle
+Writing: 1-chatgpt 2-jasper ai 3-writesonic 4-copy.ai 5-Notion ai 6-sudowrite 7-Ink Editor 8-Hypewrite 9-RYtr 10-wordtune
+Video creation: 1-Pictory 2-Synthesia 3-Runway 4-In video 5-Lumen-5 6-descript 7-veed.io 8-Rephase.ai 9- steve.ai 10-Elai.io
+coding assistant : 1- github copilot 2-codeium 3-Replit Ghost writer 4-tabnine 6 -codex by Open ai 7 -Mutable ai 8 -Kite 9- sourcegraph cody 10 -askcodi
 ![image](
 ![image](
 ![image](
