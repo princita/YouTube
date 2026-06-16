@@ -147,6 +147,12 @@ Learning --> feedback loop
 ![image](https://github.com/user-attachments/assets/98319916-0839-486d-a546-b26f5b841d95)
 ![image](https://github.com/user-attachments/assets/73a72b42-ab74-4a85-b3f5-a9a78122a63d)
 ![image](https://github.com/user-attachments/assets/effb875e-6115-4417-9a6b-ca19461a4001)
+![image](https://github.com/user-attachments/assets/883f41d9-f27d-4d7e-9bf3-59bc10df6284)
+![image](https://github.com/user-attachments/assets/f1f2b886-7ac8-44c1-b90a-bcbecd5bd2cd)
+![image](https://github.com/user-attachments/assets/821783ac-d866-4ca5-a6ba-8ab8e363b2c3)
+![image](https://github.com/user-attachments/assets/2138a28d-e015-4072-bf0e-a62f93d0f629)
+![image](https://github.com/user-attachments/assets/e1957c6c-1eed-4d0d-937a-9bd09e111a71)
+![image](https://github.com/user-attachments/assets/5c266db8-e756-460a-b8de-0ed27ecad123)
 ![image](
 ![image](
 ![image](
@@ -162,11 +168,4 @@ Learning --> feedback loop
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-![image](
-
 
