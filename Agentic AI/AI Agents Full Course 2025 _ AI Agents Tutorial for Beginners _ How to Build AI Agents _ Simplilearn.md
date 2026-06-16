@@ -118,7 +118,25 @@ Reasoning --> LMM model-based decision making
 Act --> autonomous action 
 Learning --> feedback loop 
 ![image](https://github.com/user-attachments/assets/ce64c1ce-1439-4f62-96c2-a28ae1dd7117)
-![image](
+![image](https://github.com/user-attachments/assets/52b41a7e-6956-450e-a23a-62d117b780b8)
+![image](https://github.com/user-attachments/assets/09ea96dd-49d8-43fc-9e3b-4ced51736ebf)
+![image](https://github.com/user-attachments/assets/d18cfee6-f4fc-4c5c-b5f5-1a0274d59a22)
+![image](https://github.com/user-attachments/assets/13871f76-200f-416f-8c54-d838b05c0f9b)
+![image](https://github.com/user-attachments/assets/34be2b44-4886-445a-81b0-78d7462cd764)
+![image](https://github.com/user-attachments/assets/ec33f7e3-c33e-4196-8480-d0cf3178588f)
+![image](https://github.com/user-attachments/assets/b97cd679-ab47-4d52-9bd2-386bc90f8cea)
+![image](https://github.com/user-attachments/assets/dbe5a48f-62b4-4828-844a-b00f4c6ba9ca)
+![image](https://github.com/user-attachments/assets/a56c07c2-30b6-4c04-99ee-113fee076ad2)
+![image](https://github.com/user-attachments/assets/9e210899-f6d1-4eea-a5e6-f99798a38568)
+![image](https://github.com/user-attachments/assets/ef0a2272-edeb-4432-9cdf-f52adcfb80a0)
+![image](https://github.com/user-attachments/assets/a580bde9-ecfe-4c50-b431-d44ff81d006e)
+![image](https://github.com/user-attachments/assets/77afea39-2016-40f4-b09f-71a6f083ad98)
+![image](https://github.com/user-attachments/assets/dbdc6919-3238-420a-86cd-25e86e69e2fb)
+![image](https://github.com/user-attachments/assets/ac01d35e-57ff-4c4a-8e39-6521480ca6b8)
+![image](https://github.com/user-attachments/assets/316e8741-e2f8-44da-a7a8-c0126022a2b5)
+![image](https://github.com/user-attachments/assets/a7ecc73d-587a-4929-9926-6543372ec80d)
+![image](https://github.com/user-attachments/assets/c6db163a-5f05-4b18-87f6-3554d2ee0ea7)
+![image](https://github.com/user-attachments/assets/3e04aadc-1350-4179-a0ce-265365ef2d20)
 ![image](
 ![image](
 ![image](
