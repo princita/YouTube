@@ -258,18 +258,28 @@ Learning --> feedback loop
 ![image](https://github.com/user-attachments/assets/c7cbca36-996d-4995-b256-0ae3b9f544f4)
 ![image](https://github.com/user-attachments/assets/81f0d02e-0432-4f5d-a063-f5a5accbc757)
 ![image](https://github.com/user-attachments/assets/9c3f8b05-1d8a-49da-970f-1a682c88fcb2)
-![image](
 
 image generation:- 1-midjourney 2-dall-e-3 3-stable diffusion 4-Leonardo AI 5-Adobe Firefly 6-Playground AI 7-NightCafe 8-fotor ai 9-deep dream generator
-Voice generation: 1-Eloeven Labs 2-Murf AI 3-LOVO AI 4-play.ht 5-Resemble AI 6-Descripts overdub 7-Type cast 8-speechify9-synthesis 10-podcastle
+Voice generation: 1-Eloeven Labs 2-Murf AI 3-LOVO AI 4-play.ht 5-Resemble AI 6-Descripts overdub 7-Typecast 8-speechify 9-synthesis 10-podcastle
 Writing: 1-chatgpt 2-jasper ai 3-writesonic 4-copy.ai 5-Notion ai 6-sudowrite 7-Ink Editor 8-Hypewrite 9-RYtr 10-wordtune
-Video creation: 1-Pictory 2-Synthesia 3-Runway 4-In video 5-Lumen-5 6-descript 7-veed.io 8-Rephase.ai 9- steve.ai 10-Elai.io
+Video creation: 1-Pictory 2-Synthesia 3-Runway 4-In video 5-Lumen-5 6-descript 7-veed.io 8-Rephrase.ai 9-Steve.ai 10-Elai.io
 coding assistant : 1- github copilot 2-codeium 3-Replit Ghost writer 4-tabnine 6 -codex by Open ai 7 -Mutable ai 8 -Kite 9- sourcegraph cody 10 -askcodi
+![image](https://github.com/user-attachments/assets/588f9fd5-0ebd-4a63-bc76-3f7a3c52fdda)
+![image](https://github.com/user-attachments/assets/890f98af-1376-4efd-9a25-366852481b9b)
+![image](https://github.com/user-attachments/assets/8b320e9a-9000-49da-87ad-693a2a1c2973)
+![image](https://github.com/user-attachments/assets/19ef3a11-8d8c-4786-b88e-6fbeff236917)
+![image](https://github.com/user-attachments/assets/014c16e2-0ae5-46ce-bf48-8a2c470e0d3f)
+![image](https://github.com/user-attachments/assets/d9cca239-0b20-43a5-a14b-718fc6c6b813)
+![image](https://github.com/user-attachments/assets/5b1ad71f-1968-41b2-b0dc-727600f00d28)
+![image](https://github.com/user-attachments/assets/d89f2499-6848-4faa-8110-d1e682b83c24)
+![image](https://github.com/user-attachments/assets/c7380e46-9c1d-4b7a-91f4-e0d5dafd4c26)
+![image](https://github.com/user-attachments/assets/74753666-3fd2-40e4-8153-201fef37581f)
+![image](https://github.com/user-attachments/assets/8dbe44f0-9ee7-470a-8eb0-afdd3390fa68)
+![image](https://github.com/user-attachments/assets/77fed172-3453-4dbc-a65b-441b6e6f1589)
 ![image](
 ![image](
 ![image](
-![image](
-![image](
+
 
 
 
