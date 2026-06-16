@@ -215,6 +215,20 @@ Learning --> feedback loop
 ![image](https://github.com/user-attachments/assets/8cca3482-da51-4af9-bc0b-16126bc5620b)
 ![image](https://github.com/user-attachments/assets/caca90db-1252-4280-b4dc-0bba3e04b5e1)
 ![image](https://github.com/user-attachments/assets/a47a0161-317a-4004-8f53-75de55a31612)
+![image](https://github.com/user-attachments/assets/87ec392d-0ed8-4210-95b6-efa3edd894bb)
+![image](https://github.com/user-attachments/assets/20e15973-3f52-447e-99fc-07301b228f23)
+![image](https://github.com/user-attachments/assets/0ae475be-7e8a-4009-9c31-3b7816e6b55b)
+![image](https://github.com/user-attachments/assets/b6c78d39-ec21-4c92-82fb-82a1de8b2b30)
+![image](https://github.com/user-attachments/assets/f57c98df-6a24-48ec-9a08-afd5d2e08ba4)
+![image](https://github.com/user-attachments/assets/cd322faa-b1ef-42f1-8464-cd8f3900a14f)
+![image](https://github.com/user-attachments/assets/2f2fbd43-924f-4ff4-9474-43e7f79cbde6)
+![image](https://github.com/user-attachments/assets/e147830e-b2ed-4b76-9043-40c42471a9a3)
+![image](https://github.com/user-attachments/assets/9e9cc67e-9017-4290-a566-ccb735b95c66)
+![image](https://github.com/user-attachments/assets/54a2efd5-7401-4a9e-b0b2-8ad797d87897)
+![image](https://github.com/user-attachments/assets/156c1b9d-2dcf-4b8a-b7f2-ea20e8afcaaf)
+![image](https://github.com/user-attachments/assets/697e216c-7256-4262-9556-9c8f71406de0)
+![image](https://github.com/user-attachments/assets/9471d1df-786c-4bb1-899e-fa7242a434e3)
+![image](https://github.com/user-attachments/assets/d58e3427-7109-4d75-92bc-d9791a151b16)
 ![image](
 ![image](
 ![image](
@@ -229,9 +243,10 @@ Learning --> feedback loop
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-![image](
-![image](
+
+
+
+
+
 
 
