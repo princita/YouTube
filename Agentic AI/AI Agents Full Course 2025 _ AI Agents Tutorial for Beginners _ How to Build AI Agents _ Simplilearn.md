@@ -51,6 +51,15 @@ CUA--- > computer user agent
 ![image](https://github.com/user-attachments/assets/9ee8ae7e-9198-49a6-88e1-a92585615101)
 ![image](https://github.com/user-attachments/assets/01b907c1-f4b5-4c9d-b0f0-511662eb2d9f)
 ![image](https://github.com/user-attachments/assets/672bec33-c389-45ab-be27-59ac47485637)
+![image](https://github.com/user-attachments/assets/e862401f-69da-46e8-9d94-db1b922760d9)
+![image](https://github.com/user-attachments/assets/d807f157-dbda-42b5-ad4f-a4b859a20934)
+![image](https://github.com/user-attachments/assets/c82a8e3d-25b2-4c89-a984-77f7c948fdaf)
+![image](https://github.com/user-attachments/assets/fcb547e5-467b-4481-bef4-e19149cb5169)
+![image](https://github.com/user-attachments/assets/32e3dcf6-f49c-477a-8f72-71b883543864)
+![image](https://github.com/user-attachments/assets/4ff95242-53e6-494e-9c2d-404cb700fde9)
+![image](https://github.com/user-attachments/assets/c2ba7446-dc84-4f27-8e90-6ceeb2bf3aca)
+![image](https://github.com/user-attachments/assets/724a3b07-c5a8-40f9-a665-1853eb5e096a)
+![image](https://github.com/user-attachments/assets/4e505270-26a4-44ac-ab16-802afa117c04)
 ![image](
 ![image](
 ![image](
@@ -58,8 +67,12 @@ CUA--- > computer user agent
 ![image](
 ![image](
 ![image](
-
-
-
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
 
 
