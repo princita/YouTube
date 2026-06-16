@@ -54,6 +54,25 @@ agent --->know when to break loop
 ![image](https://github.com/user-attachments/assets/cbd376c8-e1f5-4411-922f-c1a99eb07bd4)
 ![image](https://github.com/user-attachments/assets/3ddb6118-efb3-448d-9cc5-0e81f45befec)
 ![image](https://github.com/user-attachments/assets/e664faed-f8ca-4947-b9d9-27a9e5dee04d)
+![image](https://github.com/user-attachments/assets/10e23ba4-7102-48b4-baf2-65454eb1e304)
+![image](https://github.com/user-attachments/assets/606c45d7-56cf-4497-9e35-13f9b7c7aaf8)
+![image](https://github.com/user-attachments/assets/25510e00-804a-42a2-9e9e-4975e71e83e6)
+![image](https://github.com/user-attachments/assets/5c679d09-2a99-4d01-9622-05bb69eac6b0)
+![image](https://github.com/user-attachments/assets/e42c06c0-838f-4f4b-9735-42af2a7dbebd)
+![image](https://github.com/user-attachments/assets/2f6af1ff-7877-4793-a282-447d15a58499)
+![image](https://github.com/user-attachments/assets/8fe99a0a-b878-43b0-bcb7-6c52e104a1cf)
+![image](https://github.com/user-attachments/assets/9d8cafd7-c894-4d82-b536-16f968afea30)
+![image](https://github.com/user-attachments/assets/e7ea02a9-7a4d-4b06-94a5-9ceb00e8d0cc)
+![image](https://github.com/user-attachments/assets/348411fa-2db2-4ea2-8739-f1b4d607a0ee)
+![image](https://github.com/user-attachments/assets/f16a11ac-0526-4ca7-9e54-b94474421927)
+![image](https://github.com/user-attachments/assets/940da7d3-856d-4a8a-bff5-38837c3c8807)
+![image](https://github.com/user-attachments/assets/11cf9360-d74f-4e77-8c86-798f2049290a)
+![image](https://github.com/user-attachments/assets/cbdad052-4b76-48fa-94b8-a50f5b3caba5)
+![image](https://github.com/user-attachments/assets/bd529ac9-0144-4d6a-950c-b08074eb7f87)
+![image](https://github.com/user-attachments/assets/b48fc82e-0653-410a-869f-d67febb45c67)
+mcp ---> Model context protocol --> by anthropic ---> claude
+it speaks two languages ---> stdio --> standard input and output
+                       ----> SSe ---->server sent event (Htttp, Httpx)
 ![image](
 ![image](
 ![image](
@@ -61,9 +80,25 @@ agent --->know when to break loop
 ![image](
 ![image](
 ![image](
-![image](
-![image](
-![image](
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
