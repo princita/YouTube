@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5b6bcf77-24c2-4bfc-bead-667d8828ec8d)
+<img width="2944" height="1734" alt="image" src="https://github.com/user-attachments/assets/920f6066-c60e-45a2-b4e0-6b8be7fcf8d5" />![image](https://github.com/user-attachments/assets/5b6bcf77-24c2-4bfc-bead-667d8828ec8d)
 ![image](https://github.com/user-attachments/assets/a5ad1e3d-0170-472a-966f-fbf27607a602)
 ![image](https://github.com/user-attachments/assets/b8ebfa1b-0a4d-44ea-ba22-c7b9060ead30)
 ![image](https://github.com/user-attachments/assets/ecec28e7-ab90-49b9-b552-dba66cf228fe)
@@ -137,6 +137,16 @@ Learning --> feedback loop
 ![image](https://github.com/user-attachments/assets/a7ecc73d-587a-4929-9926-6543372ec80d)
 ![image](https://github.com/user-attachments/assets/c6db163a-5f05-4b18-87f6-3554d2ee0ea7)
 ![image](https://github.com/user-attachments/assets/3e04aadc-1350-4179-a0ce-265365ef2d20)
+![image](https://github.com/user-attachments/assets/db7548ac-b7c6-445c-ab1e-c2bf84a343db)
+![image](https://github.com/user-attachments/assets/7b686c1e-db9c-461d-a9fd-b163ec166436)
+![image](https://github.com/user-attachments/assets/2abae0e7-1e81-4d66-8bcc-b9e826ded3f6)
+![image](https://github.com/user-attachments/assets/734026a0-d6d4-49ef-ac2f-39fceba2c820)
+![image](https://github.com/user-attachments/assets/414d5198-c0a1-403d-83bc-c185f980a88f)
+![image](https://github.com/user-attachments/assets/8fcddacc-5e72-4ca9-a6f5-22b2fee12ba3)
+![image](https://github.com/user-attachments/assets/97342236-f39e-422c-9b5f-593bc9398a3a)
+![image](https://github.com/user-attachments/assets/98319916-0839-486d-a546-b26f5b841d95)
+![image](https://github.com/user-attachments/assets/73a72b42-ab74-4a85-b3f5-a9a78122a63d)
+![image](https://github.com/user-attachments/assets/effb875e-6115-4417-9a6b-ca19461a4001)
 ![image](
 ![image](
 ![image](
@@ -146,4 +156,17 @@ Learning --> feedback loop
 ![image](
 ![image](
 ![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+![image](
+
 
